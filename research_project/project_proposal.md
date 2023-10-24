@@ -71,7 +71,7 @@ Website output would include a map of a contaminant concentration at a specified
 
 
 ## Sketch
-
+![]
 
 
 
