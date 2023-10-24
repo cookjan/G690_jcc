@@ -20,17 +20,17 @@ I will then create an app for graph and map generation of contaminant model pred
 I will build importable geochemical reaction modules within Python using the PHREEQC data library in data source 1.
 
 I will create classes for geochemical constituents with attributes as follows:
-'''
+```
 Classes: mineral, ion
 Atrributes: Elements, charge, reaction rate, activation energy, mineral saturation quotient
-'''
+```
 
 I will also create functions to which to apply the classes and attributes to, representing the geochemical modeling equations themselves. Equations for these functions can be found at Zhang et al., 2019.
-'''
+```
 Functions: General net dissolution rate, pH-based dissolution rates
 Inputs: mineral species, temperature, pH, pressure, reaction mechanism, pre-exponential factor
 Output: net dissolution rate
-'''
+```
 
 However, geochemical databases and models are not complete due to the difficulty in producing the high-quality data required for model creation. Time-giving, I will use machine learning to attempt modeling minerals or reactions in hopes of producing model insights to understudied mineral reactions. 
 
