@@ -55,24 +55,25 @@ This analysis has a caveat: Groundwater geochemistry depends on how long groundw
 
 ### 4) App creation
 The intended method for app creation is plot.ly.
-Website user input would include location (by address). User would pick from predetermined options for the following factors: time, CO<sub>2</sub> emmision scenario, and contaminant of interest. User would choose between map or graph outputs. 
+Website user input would include location (by address; this would involve some code to translate to coordinates or nearest subbasin). User would pick from predetermined options for the following factors: time, CO<sub>2</sub> emmision scenario, and contaminant of interest. User would choose between map or graph outputs. 
 Website output would include a map of a contaminant concentration at a specified time and emission scenario, or a graph of a contaminant concentration varying by time at a location.
 
 
 
-## Timeline (examples)
-- [x] (Oct 27) write code to read in seismometer data files
-- [ ] (Nov 3) write and test function `extract_earthquakes()` to extract individual earthquakes from data
-- [ ] (Nov 10) write and test function `estimate_magnitude()` to estimate the magnitude of each earthquake
-- [ ] (Nov 17) write code to run magnitude estimation in paralell on multiple seismometer data files
-- [ ] (Nov 24) write code to run magnitude estimation in paralell on multiple seismometer data files
-- [ ] (Dec 1) write code to run magnitude estimation in paralell on multiple seismometer data files
+## Timeline
+- [ ] (Oct 27) create class structure for ion objects and geochemical equation functions
+- [ ] (Nov 3) interpolate geochem historical results to subbasins
+- [ ] (Nov 10) write deep learning code for correlation analysis of subbasin geochem and rock
+- [ ] (Nov 17) correlation analysis of subbasin geochem/rock to hydro input 
+- [ ] (Nov 24) test geochem reaction rate functions on hydro input
+- [ ] (Dec 1) write and test function for predictive geochem modeling using hydro input (from climate scenarios)
+- [ ] (Dec 8) write app code and associated address search function
 
 
 
 ## Sketch
-![]
-
+![https://github.com/cookjan/G690_jcc/blob/main/research_project/proposalimage.png]
+Sketch shows both types of output available on the app.
 
 
 ## Data Sources
