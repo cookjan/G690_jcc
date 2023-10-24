@@ -1,6 +1,4 @@
-# Final Project: 
-
-publication-quality plot (multiple types of info)
+# Final Project: Indiana Groundwater Geochemistry under Climate Emissions Scenarios
 
 ## Background
 Natural groundwater geochemistry is influenced by groundwater path. The longer groundwater is in contact with a certian rock, the more the chemistry of the groundwater will change through rock-water interactions. The new chemistry will reflect the ions located in the rock or soil in both constiutent and concentration. Concentration of groundwater geochemistry is also affected by the amount of water coming into the system, generally in the form of rainfall replenishment, which will affect system retention time.
@@ -22,19 +20,23 @@ I will then create an app for graph and map generation of contaminant model pred
 I will build importable geochemical reaction modules within Python using the PHREEQC data library in data source 1.
 
 I will create classes for geochemical constituents with attributes as follows:
-    Classes: mineral, ion
-    Atrributes: Elements, charge, reaction rate, activation energy, mineral saturation quotient
+'''
+Classes: mineral, ion
+Atrributes: Elements, charge, reaction rate, activation energy, mineral saturation quotient
+'''
 
 I will also create functions to which to apply the classes and attributes to, representing the geochemical modeling equations themselves. Equations for these functions can be found at Zhang et al., 2019.
-    Functions: General net dissolution rate, pH-based dissolution rates
-    Inputs: mineral species, temperature, pH, pressure, reaction mechanism, pre-exponential factor
-    Output: net dissolution rate
+'''
+Functions: General net dissolution rate, pH-based dissolution rates
+Inputs: mineral species, temperature, pH, pressure, reaction mechanism, pre-exponential factor
+Output: net dissolution rate
+'''
 
 However, geochemical databases and models are not complete due to the difficulty in producing the high-quality data required for model creation. Time-giving, I will use machine learning to attempt modeling minerals or reactions in hopes of producing model insights to understudied mineral reactions. 
 
 
 ### 2) Application to State of Indiana (Wabash Basin)
-This correlation analysis will measure historical groundwater geochemical data (data source 2) to Indiana geologic formations (data source 3) and Indiana historical hydrology data (data source 4), either through combined or separate analysis. This will produce an estimate of prediction accuracy of aqueous ion concentration on geological formation and the rate to which hydrologic input data affects geochemistry. I will use parallel processing or deep learning in writing the code neccessary for these estimates.
+This correlation analysis will measure historical groundwater geochemical data (data source 2) to Indiana geologic formations (data source 3) and Indiana historical hydrology data (data source 4) for the Wabash Basin, which encompasses Indiana. This will be done either through separate analysis or in parallel. This will produce an estimate of prediction accuracy of aqueous ion concentration on geological formation and the rate to which hydrologic input data affects geochemistry. I will use parallel processing or deep learning in writing the code neccessary for these estimates.
 
 **Historical geochemistry:**
 Data source 2 is DNR ambient groundwater data of Indiana water-management basins, including nitrate, phosphate, sulfate, metals such as iron, sodium, and potassium, and potentially toxic constituents such as fluoride. Field parameters important to geochemical modeling such as pH and temperature are collected. Each entry has an attributed depth and UTM Coordinates. 
@@ -50,7 +52,7 @@ Data source 4 is historical hydrologic data used in the FutureWater website. The
 ### 3) Predictive analysis  
 I will incorporate CO<sub>2</sub> emission predictor data (data source 6) into prediction maps of groundwater hydrology using the historical hydrology, geochemistry, and geological formation analyses above. This will impact the temperature, precipitation, and evaporation rates, thus impacting the recharge rate of groundwater. Analysis of historical hydrology to historical geochemistry will tell to what extent values are affected, which will be weighted in prediciton rates. 
 
-This analysis has a caveat: Groundwater geochemistry depends on how long groundwater has been underground before being drawn. Length of time groundwater is in a system varies heavily, between days and hundreds of years. For this reason, there may be an observed 'lag' in geochemical variability caused by amount of groundwater entering a system. This lag would likely vary by location, and therefore be difficult to account for in the present analysis. 
+This analysis has a caveat: groundwater geochemistry depends on how long groundwater has been underground before being drawn. Length of time groundwater is in a system varies heavily, between days and hundreds of years. For this reason, there may be an observed 'lag' in geochemical variability caused by amount of groundwater entering a system. This lag would likely vary by location, and therefore be difficult to account for in the present analysis. 
 
 
 ### 4) App creation
@@ -72,12 +74,12 @@ Website output would include a map of a contaminant concentration at a specified
 
 
 ## Sketch
-![https://github.com/cookjan/G690_jcc/blob/main/research_project/proposalimage.png]
+![sketch of graph and table outputs for an example location, time, and ion](https://github.com/cookjan/G690_jcc/blob/main/research_project/proposalimage.png)
 Sketch shows both types of output available on the app.
 
 
 ## Data Sources
-1. [BASIC Scripts library for PHREEQC](http://149.165.154.118/basic_scripts/basic_scripts.php) ; [Github] (https://github.com/HydrogeoIU/PHREEQC-Kinetic-Library): Data library for geochemical modeling of reaction rates. 
+1. [BASIC Scripts library for PHREEQC](http://149.165.154.118/basic_scripts/basic_scripts.php) ; [Github](https://github.com/HydrogeoIU/PHREEQC-Kinetic-Library): Data library for geochemical modeling of reaction rates. 
 Alternatively, the [rates calculator](https://hydrogeochem.earth.indiana.edu/software/index.html) may be used if geochemical modeling fails. 
 
 2. [Ambient Ground Water Chemistry](https://www.in.gov/dnr/water/publications/ambient-ground-water-chemistry/ ): DNR historical groundwater chemistry data. Ambient water chemistry of 6 water-management basins in Indiana.
