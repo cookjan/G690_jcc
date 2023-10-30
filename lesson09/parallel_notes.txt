@@ -1,0 +1,18 @@
+coarse grained processing
+code is itentical word for word
+copied and put on different data files
+each file given a rank 
+write code with a {}variable which is defined based on rank or file name, so code is identical, but changes for what file its applied to
+Or Also you can write code to go between them
+communicator: thing that can go between ranks
+
+"Embarrasingly Parallel"
+if it doesnt matter what order theyre run in, how long apart theyre run
+there is no interdependence between tasks 
+example: downloading data from a source. you need a bunch of different files but dont want to wait one after the other
+example: loop. if you can write a loop, and it doesnt matter what order its being done in, it can be done parallel
+
+
+
+
+
