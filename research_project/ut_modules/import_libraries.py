@@ -1,13 +1,31 @@
 #import libraries
+
+#analytical 
 import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
 import scipy
-
-import numpy.fft as fft
-
-
+import pandas as pd
 import xarray as xr
+import matplotlib.pyplot as plt
+
+
+#mapping
+import cartopy #see 06_workalong02
+
+#for better colormaps
+import cmocean #see 06_workalong01
+
+#??
+import numpy.fft as fft #see 11_workalong_01
+import os #keep from redownloading a file. see 05_multid
+
+#machine learning
 import torch
 import torch.nn as nn
-import os
+
+#parallel code
+from mpi4py import MPI # see 09_workalong_01
+
+import sklearn #scikit-learn
+from sklearn import preprocessing as pr
+
+import scipy.special #see 03_warmup

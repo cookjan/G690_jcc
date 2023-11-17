@@ -52,7 +52,7 @@ Data source 4 is historical hydrologic data used in the FutureWater website. The
 ### 3) Predictive analysis  
 I will incorporate CO<sub>2</sub> emission predictor data (data source 6) into prediction maps of groundwater hydrology using the historical hydrology, geochemistry, and geological formation analyses above. This will impact the temperature, precipitation, and evaporation rates, thus impacting the recharge rate of groundwater. Analysis of historical hydrology to historical geochemistry will tell to what extent values are affected, which will be weighted in prediciton rates. 
 
-This analysis has a caveat: groundwater geochemistry depends on how long groundwater has been underground before being drawn. Length of time groundwater is in a system varies heavily, between days and hundreds of years. For this reason, there may be an observed 'lag' in geochemical variability caused by amount of groundwater entering a system. This lag would likely vary by location, and therefore be difficult to account for in the present analysis. 
+This analysis has a caveat: groundwater geochemistry depends on how long groundwater has been underground before being drawn. Length of time groundwater is in a system varies heavily, from days to hundreds of years. For this reason, there may be an observed 'lag' in geochemical variability caused by amount of groundwater entering a system. This lag would likely vary by location, and therefore be difficult to account for in the present analysis. 
 
 
 ### 4) App creation
@@ -74,7 +74,7 @@ Website output would include a map of a contaminant concentration at a specified
 
 
 ## Sketch
-![sketch of graph and table outputs for an example location, time, and ion](https://github.com/cookjan/G690_jcc/blob/main/research_project/proposalimage.png)
+![sketch of graph and table outputs for an example location, time, and ion](https://github.com/cookjan/G690_jcc/blob/main/research_project/images/proposalimage.png)
 Sketch shows both types of output available on the app.
 
 
