@@ -1,0 +1,88 @@
+unit_link,lith_rank,lith1,lith2,lith3,lith4,lith5,low_lith,lith_form,lith_com
+IND2;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+INPA3;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+INDa;0,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,,cherty limestone and dolomite 
+INO;0,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,,"Ordovician rocks, undifferentiated Shale and limestone; upper part of Maquoketa Group in deep buried valleys; Maquoketa to upper part of Knox Supergroup in Kentland area "
+INO1;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,Lexington Limestone Micritic and skeletal limestone 
+INO2;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,,Kope Formation Shale and thin skeletal limestone 
+INCAb;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+INDa;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,cherty limestone 
+INS3;0,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,,dolomite and argillaceous dolomite 
+INO4;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,"Whitewater Formation Skeletal limestone and calcareous shale; dolomitic mudstone (S, Saluda Member) at base "
+INDm;0,Major,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Black-shale,,New Albany Shale - black and greenish-gray shale 
+INO2;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,Kope Formation Shale and thin skeletal limestone 
+INM1;0,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,,"moslty siltstone; lenses of crinodial limestone in upper part. Much cherty and silty limestone and dolomite in northwest. NP, top of New Providence Shale "
+INM2;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,"mostly skeletal limestone, cherty in lower part "
+INM3;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,"mostly micritic, skeletal, and oolitic limestone "
+INM4;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,"Shale, sandstone, and micritic and skeletal limestone "
+INM4;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,,"Shale, sandstone, and micritic and skeletal limestone "
+INM5;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,"sandstone, micritic and skeletal limestone, and shale "
+INM5;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,"sandstone, micritic and skeletal limestone, and shale "
+INM5;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,,"sandstone, micritic and skeletal limestone, and shale "
+INM6;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,"mostly shale and sandstone; also includes thin beds of micritic limestone. L, Leopold Limestone member "
+INM6;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,"mostly shale and sandstone; also includes thin beds of micritic limestone. L, Leopold Limestone member "
+INM6;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,,"mostly shale and sandstone; also includes thin beds of micritic limestone. L, Leopold Limestone member "
+INO;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+INO;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,"Ordovician rocks, undifferentiated Shale and limestone; upper part of Maquoketa Group in deep buried valleys; Maquoketa to upper part of Knox Supergroup in Kentland area "
+INO3;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,Dillsboro Formation Skeletal limestone and calcareous shale 
+INOa;0,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,,"Black River and Ancell Groups dolomite, limestone, and sandstone shown in cross-section only "
+INOa;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,"Black River and Ancell Groups dolomite, limestone, and sandstone shown in cross-section only "
+INOa;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,"Black River and Ancell Groups dolomite, limestone, and sandstone shown in cross-section only "
+INOb;0,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,,Trenton Limestone dolomite in northwestern Indiana shown in cross-section only 
+INOc;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,Maquoketa Group shale and limestone shown in cross-section only 
+INOc;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,Maquoketa Group shale and limestone shown in cross-section only 
+INPA1;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,"mostly shale and sandstone; also includes thin beds of limestone, clay, and coal. B, Buffaloville Coal Member; LB, Lower Block Coal Member "
+INPA1;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,"mostly shale and sandstone; also includes thin beds of limestone, clay, and coal. B, Buffaloville Coal Member; LB, Lower Block Coal Member "
+INPA1;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,,"mostly shale and sandstone; also includes thin beds of limestone, clay, and coal. B, Buffaloville Coal Member; LB, Lower Block Coal Member "
+INPA1;0,Minor,Sedimentary,Clastic,Mudstone,Claystone,,Claystone,,"mostly shale and sandstone; also includes thin beds of limestone, clay, and coal. B, Buffaloville Coal Member; LB, Lower Block Coal Member "
+INPA1;0,Minor,Sedimentary,Coal,,,,Coal,,"mostly shale and sandstone; also includes thin beds of limestone, clay, and coal. B, Buffaloville Coal Member; LB, Lower Block Coal Member "
+INPA2;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+INPA2;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+INPA2;0,Minor,Sedimentary,Clastic,Mudstone,Claystone,,Claystone,, 
+INPA2;0,Minor,Sedimentary,Coal,,,,Coal,, 
+INPA3;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+INPA3;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+INPA4;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+INPA4;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+INPA4;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+INPA4;0,Minor,Sedimentary,Coal,,,,Coal,, 
+INPA5;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+INPA5;0,Incidental,Sedimentary,Coal,,,,Coal,, 
+INPA5;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+INpC;0,Major,Igneous,Plutonic,Granitic,Granite,,Granite,,Precambrian rocks Dominantly granite; includes some metasedimentary and basaltic rocks shown in cross-section only 
+INpC;0,Incidental,Metamorphic,Metasedimentary,,,,Metasedimentary,,Precambrian rocks Dominantly granite; includes some metasedimentary and basaltic rocks shown in cross-section only 
+INpC;0,Incidental,Igneous,Volcanic,Mafic-volcanic,Basalt,,Basalt,,Precambrian rocks Dominantly granite; includes some metasedimentary and basaltic rocks shown in cross-section only 
+INS;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+INS1;0,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,, 
+INS1;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+INS1;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+INS2;0,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,,dolomite and argillaceous dolomite 
+INS2;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+INS3;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+INSa;0,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,,"limestone and dolomite, in part cherty and argillaceous "
+INSa;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,"limestone and dolomite, in part cherty and argillaceous "
+INM4;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,,"Shale, sandstone, and micritic and skeletal limestone "
+INPA2;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+IND;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+IND;0,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,, 
+INPA3;0,Minor,Sedimentary,Coal,,,,Coal,, 
+INwater;0,Major,Water,,,,,Water,, 
+INO4;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,"Whitewater Formation Skeletal limestone and calcareous shale; dolomitic mudstone (S, Saluda Member) at base "
+INO4;0,Minor,Sedimentary,Clastic,Mudstone,,,Mudstone,,"Whitewater Formation Skeletal limestone and calcareous shale; dolomitic mudstone (S, Saluda Member) at base "
+INO3;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,Dillsboro Formation Skeletal limestone and calcareous shale 
+INCAa;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,,shown in cross-section only 
+INCAb;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,, 
+INCAb;0,Major,Sedimentary,Clastic,Sandstone,,,Sandstone,, 
+INCAb;0,Minor,Sedimentary,Carbonate,Dolostone,,,Dolostone,, 
+INCAO;0,Major,Sedimentary,Carbonate,Dolostone,,,Dolostone,,"largely dolomite, limestone with lesser sandstone (from the National Geologic Map Database) "
+INCAO;0,Major,Sedimentary,Carbonate,Limestone,,,Limestone,,"largely dolomite, limestone with lesser sandstone (from the National Geologic Map Database) "
+INCAO;0,Minor,Sedimentary,Clastic,Sandstone,,,Sandstone,,"largely dolomite, limestone with lesser sandstone (from the National Geologic Map Database) "
+IND2;0,Major,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Black-shale,, 
+IND2;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+INDm;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,New Albany Shale - black and greenish-gray shale 
+INdMe;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,,Ellsworth Shale - green shale; some black shale in lower part 
+INdMe;0,Minor,Sedimentary,Clastic,Mudstone,Shale,Black-shale,Black-shale,,Ellsworth Shale - green shale; some black shale in lower part 
+INM;0,Major,Sedimentary,Clastic,Mudstone,Shale,,Shale,, 
+INM1;0,Major,Sedimentary,Clastic,Siltstone,,,Siltstone,,"moslty siltstone; lenses of crinodial limestone in upper part. Much cherty and silty limestone and dolomite in northwest. NP, top of New Providence Shale "
+INM1;0,Minor,Sedimentary,Carbonate,Limestone,,,Limestone,,"moslty siltstone; lenses of crinodial limestone in upper part. Much cherty and silty limestone and dolomite in northwest. NP, top of New Providence Shale "
+INM1;0,Minor,Sedimentary,Clastic,Mudstone,Shale,,Shale,,"moslty siltstone; lenses of crinodial limestone in upper part. Much cherty and silty limestone and dolomite in northwest. NP, top of New Providence Shale "

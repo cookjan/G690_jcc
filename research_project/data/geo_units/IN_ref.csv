@@ -1,0 +1,6 @@
+ref_id,reference,onlink
+IN001,"Gray, Henry H., Ault, Curtis, H., and Keller, Stanley, J., 1987, Bedrock geologic map of Indiana: Dept. of Natural Resources, Indiana Geological Survey, Miscellaneous Map 48, scale = 1:500,000 ",
+IN101,Heads-up digitized faults from paper map. ,
+IN201,Water polygons that are generated when standard state base map is used. ,
+IN003,"[BEDROCK_GEOL_MM48_IN: Bedrock Geology of Indiana (Indiana Geological Survey, 1:500,000, Polygon Shapefile)] which can be found at http://igs.indiana.edu/arcims/statewide/download.html ",http://inmap.indiana.edu/dload_page/geology.html
+IN002,USGS Geologic Names Lexicon (GEOLEX),http://ngmdb.usgs.gov/Geolex/
