@@ -13,6 +13,7 @@ import shapely #is this just a map thing?
 import cartopy #see 06_workalong02
 import geopandas as gpd
 import pykml #attempted for geologic formations section of G690 final project
+import utm
 
 
 #for better colormaps
