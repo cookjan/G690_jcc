@@ -15,6 +15,8 @@ import geopandas as gpd
 import pykml #attempted for geologic formations section of G690 final project
 import utm
 
+#display an image
+from IPython.display import Image, display
 
 #for better colormaps
 import cmocean #see 06_workalong01
