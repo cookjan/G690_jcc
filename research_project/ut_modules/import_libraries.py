@@ -14,6 +14,7 @@ import cartopy #see 06_workalong02
 import geopandas as gpd
 import pykml #attempted for geologic formations section of G690 final project
 import utm
+import shapefile
 
 #display an image
 from IPython.display import Image, display

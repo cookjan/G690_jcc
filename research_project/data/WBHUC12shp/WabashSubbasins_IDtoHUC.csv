@@ -1,0 +1,1277 @@
+"","OBJECTID","HUC12","NameHUC12","HUC10","NameHUC10","HUC8","NameHUC8","subbasin","id"
+"1","1","051201120104","Jordan Slough","0512011201","East Branch Embarras River","05120112","Embarras",1,1
+"2","2","051201111302","Hutson Creek","0512011113","Raccoon River-Wabash River","05120111","Middle Wabash-Busseron",2,2
+"3","3","051201111401","Town of Palestine-Lamotte Creek","0512011114","Lamotte Creek","05120111","Middle Wabash-Busseron",3,3
+"4","4","051201111402","Minnow Slough","0512011114","Lamotte Creek","05120111","Middle Wabash-Busseron",4,4
+"5","5","051201120101","Town of Savoy-Embarras River","0512011201","East Branch Embarras River","05120112","Embarras",5,5
+"6","6","051201111002","East MIll Creek-Mill Creek","0512011110","Mill Creek","05120111","Middle Wabash-Busseron",6,6
+"7","7","051201120102","Black Slough-East Branch Embarras River","0512011201","East Branch Embarras River","05120112","Embarras",7,7
+"8","8","051201110901","Mud Creek-Clear Creek","0512011109","Clear Creek-Wabash River","05120111","Middle Wabash-Busseron",8,8
+"9","9","051201111003","Hurricane Creek-Mill Creek","0512011110","Mill Creek","05120111","Middle Wabash-Busseron",9,9
+"10","10","051201111004","Joes Fork-Mill Creek","0512011110","Mill Creek","05120111","Middle Wabash-Busseron",10,10
+"11","11","051201111102","Snyder Creek","0512011111","Prairie Creek-Wabash River","05120111","Middle Wabash-Busseron",11,11
+"12","12","051201111301","Raccoon Creek","0512011113","Raccoon River-Wabash River","05120111","Middle Wabash-Busseron",12,12
+"13","13","051201110804","Little Creek-Big Creek","0512011108","Big Creek","05120111","Middle Wabash-Busseron",13,13
+"14","14","051201111001","Ennis Creek-Mill Creek","0512011110","Mill Creek","05120111","Middle Wabash-Busseron",14,14
+"15","15","051201030401","Campbell Creek","0512010304","Pike Creek-Mississinewa River","05120103","Mississinewa",15,15
+"16","16","051201120103","Town of Villa Grove-Embarras River","0512011201","East Branch Embarras River","05120112","Embarras",16,16
+"17","17","051201030502","Lake Branch-Mississinewa River","0512010305","Massey Creek-Mississinewa River","05120103","Mississinewa",17,17
+"18","18","051201030503","Barren Creek","0512010305","Massey Creek-Mississinewa River","05120103","Mississinewa",18,18
+"19","19","051201030404","Holdren Ditch-Mississinewa River","0512010304","Pike Creek-Mississinewa River","05120103","Mississinewa",19,19
+"20","20","051201030504","Back Creek","0512010305","Massey Creek-Mississinewa River","05120103","Mississinewa",20,20
+"21","21","051201030505","Little Walnut Creek-Walnut Creek","0512010305","Massey Creek-Mississinewa River","05120103","Mississinewa",21,21
+"22","22","051201030501","Hoppas Ditch-Mississinewa River","0512010305","Massey Creek-Mississinewa River","05120103","Mississinewa",22,22
+"23","23","051201120105","Long Point Slough-Jordan Slough","0512011201","East Branch Embarras River","05120112","Embarras",23,23
+"24","24","051201120106","Spring Lake-Embarras River","0512011201","East Branch Embarras River","05120112","Embarras",24,24
+"25","25","051201120201","Hayes Branch","0512011202","Scattering Fork","05120112","Embarras",25,25
+"26","26","051201120202","Hackett Branch","0512011202","Scattering Fork","05120112","Embarras",26,26
+"27","27","051201030402","Rees Ditch-Mississinewa River","0512010304","Pike Creek-Mississinewa River","05120103","Mississinewa",27,27
+"28","28","051201030403","Studebaker Ditch-Pike Creek","0512010304","Pike Creek-Mississinewa River","05120103","Mississinewa",28,28
+"29","29","051201120203","Town of Arcola","0512011202","Scattering Fork","05120112","Embarras",29,29
+"30","30","051201120204","Town of Tuscola-Scattering Fork","0512011202","Scattering Fork","05120112","Embarras",30,30
+"31","31","051201030602","Metocinah Creek","0512010306","Mississinewa River","05120103","Mississinewa",31,31
+"32","32","051201030603","Grant Creek-Mississinewa River","0512010306","Mississinewa River","05120103","Mississinewa",32,32
+"33","33","051201120303","Pope Branch-Brushy Fork","0512011203","Brushy Fork","05120112","Embarras",33,33
+"34","34","051201120301","Clark Branch-Brushy Fork","0512011203","Brushy Fork","05120112","Embarras",34,34
+"35","35","051201120302","McCown Branch","0512011203","Brushy Fork","05120112","Embarras",35,35
+"36","36","051201120304","Town of Murdock","0512011203","Brushy Fork","05120112","Embarras",36,36
+"37","37","051201030508","Deer Creek","0512010305","Massey Creek-Mississinewa River","05120103","Mississinewa",37,37
+"38","38","051201030604","Forked Branch-Mississinewa River","0512010306","Mississinewa River","05120103","Mississinewa",38,38
+"39","39","051201030506","Walnut Creek","0512010305","Massey Creek-Mississinewa River","05120103","Mississinewa",39,39
+"40","40","051201030507","Little Deer Creek-Deer Creek","0512010305","Massey Creek-Mississinewa River","05120103","Mississinewa",40,40
+"41","41","051201030509","Lugar Creek","0512010305","Massey Creek-Mississinewa River","05120103","Mississinewa",41,41
+"42","42","051201030510","Branch Creek-Mississinewa River","0512010305","Massey Creek-Mississinewa River","05120103","Mississinewa",42,42
+"43","43","051201030511","Boots Creek-Mississinewa River","0512010305","Massey Creek-Mississinewa River","05120103","Mississinewa",43,43
+"44","44","051201030601","Hummel Creek-Mississinewa River","0512010306","Mississinewa River","05120103","Mississinewa",44,44
+"45","45","051201130803","Rush Creek-Wabash River","0512011308","Fox River-Wabash River","05120113","Lower Wabash",45,45
+"46","46","051201030605","Mississinewa Lake-Mississinewa River","0512010306","Mississinewa River","05120103","Mississinewa",46,46
+"47","47","051201130804","Brushy Slough-Wabash River","0512011308","Fox River-Wabash River","05120113","Lower Wabash",47,47
+"48","48","051201130805","Wabash Ditch-Wabash River","0512011308","Fox River-Wabash River","05120113","Lower Wabash",48,48
+"49","49","051201130901","Pitcher Creek-Wabash River","0512011309","Levy Slough-Wabash River","05120113","Lower Wabash",49,49
+"50","50","051201130902","Sandy Slough-Wabash River","0512011309","Levy Slough-Wabash River","05120113","Lower Wabash",50,50
+"51","51","051201130903","Grassy Slough-Levy Slough","0512011309","Levy Slough-Wabash River","05120113","Lower Wabash",51,51
+"52","52","051201130904","Willow Pond Slough-Wabash River","0512011309","Levy Slough-Wabash River","05120113","Lower Wabash",52,52
+"53","53","051201110803","East Little Creek-Big Creek","0512011108","Big Creek","05120111","Middle Wabash-Busseron",53,53
+"54","54","051201121101","Onion Creek-Big Creek","0512011211","Big Creek","05120112","Embarras",54,54
+"55","55","051201121104","Freeport Creek","0512011211","Big Creek","05120112","Embarras",55,55
+"56","56","051201121007","Willow Creek","0512011210","North Fork Embarras River","05120112","Embarras",56,56
+"57","57","051201121008","Muddy Creek","0512011210","North Fork Embarras River","05120112","Embarras",57,57
+"58","58","051201121009","No Business Creek-Willow Creek","0512011210","North Fork Embarras River","05120112","Embarras",58,58
+"59","59","051201121010","Sam Branch-North Fork Embarras River","0512011210","North Fork Embarras River","05120112","Embarras",59,59
+"60","60","051201121011","Hickory Creek-North Fork Embarras River","0512011210","North Fork Embarras River","05120112","Embarras",60,60
+"61","61","051201121102","Dogwood Creek","0512011211","Big Creek","05120112","Embarras",61,61
+"62","62","051201121103","Little Creek","0512011211","Big Creek","05120112","Embarras",62,62
+"63","63","051201040402","Hurricane Creek-Eel River","0512010404","Clear Creek-Eel River","05120104","Eel",63,63
+"64","64","051201040403","Plunge Creek-Eel River","0512010404","Clear Creek-Eel River","05120104","Eel",64,64
+"65","65","051201040404","Simonton Creek-Eel River","0512010404","Clear Creek-Eel River","05120104","Eel",65,65
+"66","66","051201040405","Pony Creek","0512010404","Clear Creek-Eel River","05120104","Eel",66,66
+"67","67","051201040407","Swank Creek-Eel River","0512010404","Clear Creek-Eel River","05120104","Eel",67,67
+"68","68","051201040501","Silver Creek","0512010405","Paw Paw Creek-Eel River","05120104","Eel",68,68
+"69","69","051201040502","Otter Creek-Eel River","0512010405","Paw Paw Creek-Eel River","05120104","Eel",69,69
+"70","70","051201040301","Black Lake-Spring Creek","0512010403","Sugar Creek-Eel River","05120104","Eel",70,70
+"71","71","051201040303","Headwaters Sugar Creek","0512010403","Sugar Creek-Eel River","05120104","Eel",71,71
+"72","72","051201040304","County Farm Ditch-Eel River","0512010403","Sugar Creek-Eel River","05120104","Eel",72,72
+"73","73","051201040401","Mishler Ditch-Eel River","0512010404","Clear Creek-Eel River","05120104","Eel",73,73
+"74","74","051201040406","Nelson Ditch-Clear Creek","0512010404","Clear Creek-Eel River","05120104","Eel",74,74
+"75","75","051201120804","Hurricane Creek","0512011208","Range Creek-Embarras River","05120112","Embarras",75,75
+"76","76","051201120703","Spring Point Creek","0512011207","Muddy Creek","05120112","Embarras",76,76
+"77","77","051201120704","Cottonwood Creek","0512011207","Muddy Creek","05120112","Embarras",77,77
+"78","78","051201120705","Island Creek","0512011207","Muddy Creek","05120112","Embarras",78,78
+"79","79","051201120706","Webster Branch-Muddy Creek","0512011207","Muddy Creek","05120112","Embarras",79,79
+"80","80","051201120801","Polecat Creek","0512011208","Range Creek-Embarras River","05120112","Embarras",80,80
+"81","81","051201120802","Whetstone Creek-Embarras River","0512011208","Range Creek-Embarras River","05120112","Embarras",81,81
+"82","82","051201120803","West Branch Hurricane Creek","0512011208","Range Creek-Embarras River","05120112","Embarras",82,82
+"83","83","051201120805","Lost Creek","0512011208","Range Creek-Embarras River","05120112","Embarras",83,83
+"84","84","051201120806","Clear Creek-Embarras River","0512011208","Range Creek-Embarras River","05120112","Embarras",84,84
+"85","85","051201040302","Shoenauer Ditch-Spring Creek","0512010403","Sugar Creek-Eel River","05120104","Eel",85,85
+"86","86","051201120807","Chivler Creek-Range Creek","0512011208","Range Creek-Embarras River","05120112","Embarras",86,86
+"87","87","051201120808","Liberty Hill-Range Creek","0512011208","Range Creek-Embarras River","05120112","Embarras",87,87
+"88","88","051201080801","Spring Creek","0512010808","Jordan Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",88,88
+"89","89","051201081102","Jonathan Creek","0512010811","Little Vermilion River","05120108","Middle Wabash-Little Vermilion",89,89
+"90","90","051201081103","Yankee Branch-Little Vermilion River","0512010811","Little Vermilion River","05120108","Middle Wabash-Little Vermilion",90,90
+"91","91","051201090704","Middle Jordan Creek","0512010907","Jordan Creek-Middle Branch","05120109","Vermilion",91,91
+"92","92","051201090705","Lower Jordan Creek","0512010907","Jordan Creek-Middle Branch","05120109","Vermilion",92,92
+"93","93","051201090801","Leuck Ditch-North Fork Vermilion River","0512010908","North Fork Vermilion River","05120109","Vermilion",93,93
+"94","94","051201090802","Town of Cheneyville-North Fork Vermillion River","0512010908","North Fork Vermilion River","05120109","Vermilion",94,94
+"95","95","051201090902","Huffman Cemetery-Stony Creek","0512010909","Vermilion River","05120109","Vermilion",95,95
+"96","96","051201121004","Turkey Run-North Fork Embarras River","0512011210","North Fork Embarras River","05120112","Embarras",96,96
+"97","97","051201120403","Donica Creek","0512011204","Little Embarras River","05120112","Embarras",97,97
+"98","98","051201120902","East Crooked Creek-Crooked Creek","0512011209","East Crooked Creek","05120112","Embarras",98,98
+"99","99","051201120811","Turkey Creek-Embarras River","0512011208","Range Creek-Embarras River","05120112","Embarras",99,99
+"100","100","051201121002","Doyles Creek-North Fork Embarras River","0512011210","North Fork Embarras River","05120112","Embarras",100,100
+"101","101","051201120901","West Crooked Creek","0512011209","East Crooked Creek","05120112","Embarras",101,101
+"102","102","051201120809","Hill Creek-Embarras River","0512011208","Range Creek-Embarras River","05120112","Embarras",102,102
+"103","103","051201120810","Mint Creek","0512011208","Range Creek-Embarras River","05120112","Embarras",103,103
+"104","104","051201121003","Quarry Branch","0512011210","North Fork Embarras River","05120112","Embarras",104,104
+"105","105","051201120401","Hickory Grove Creek","0512011204","Little Embarras River","05120112","Embarras",105,105
+"106","106","051201120402","Catfish Creek","0512011204","Little Embarras River","05120112","Embarras",106,106
+"107","107","051201120305","Newman Number 2 Drain-Brushy Fork","0512011203","Brushy Fork","05120112","Embarras",107,107
+"108","108","051201110302","Little Creek-Brouilletts Creek","0512011103","Brouilletts Creek","05120111","Middle Wabash-Busseron",108,108
+"109","109","051201110503","Indian Creek-Sugar Creek","0512011105","Sugar Creek","05120111","Middle Wabash-Busseron",109,109
+"110","110","051201110504","East Little Sugar Creek-Sugar Creek","0512011105","Sugar Creek","05120111","Middle Wabash-Busseron",110,110
+"111","111","051201110602","North Coal Creek-Coal Creek","0512011106","Coal Creek-Wabash River","05120111","Middle Wabash-Busseron",111,111
+"112","112","051201110902","South Lake-Clear Creek","0512011109","Clear Creek-Wabash River","05120111","Middle Wabash-Busseron",112,112
+"113","113","051201110903","Crooked Creek","0512011109","Clear Creek-Wabash River","05120111","Middle Wabash-Busseron",113,113
+"114","114","051201110904","Hawks Creek-Wabash River","0512011109","Clear Creek-Wabash River","05120111","Middle Wabash-Busseron",114,114
+"115","115","051201111101","Neely Creek-Sugar Creek","0512011111","Prairie Creek-Wabash River","05120111","Middle Wabash-Busseron",115,115
+"116","116","051201111103","Oxendine Bayou-Wabash River","0512011111","Prairie Creek-Wabash River","05120111","Middle Wabash-Busseron",116,116
+"117","117","051201111303","Kelley Bayou-Wabash River","0512011113","Raccoon River-Wabash River","05120111","Middle Wabash-Busseron",117,117
+"118","118","051201111603","Buzzard Pond-Wabash River","0512011116","Turtle Creek-Wabash River","05120111","Middle Wabash-Busseron",118,118
+"119","119","051201111701","Sugar Creek-Wabash River","0512011117","No Business Creek-Wabash River","05120111","Middle Wabash-Busseron",119,119
+"120","120","051201111106","Town of Riverview-Wabash River","0512011111","Prairie Creek-Wabash River","05120111","Middle Wabash-Busseron",120,120
+"121","121","051201090903","Lick Creek","0512010909","Vermilion River","05120109","Vermilion",121,121
+"122","122","051201090905","Coal Branch","0512010909","Vermilion River","05120109","Vermilion",122,122
+"123","123","051201090906","White Branch-Vermilion River","0512010909","Vermilion River","05120109","Vermilion",123,123
+"124","124","051201090907","Whippoorwill Branch-Vermilion River","0512010909","Vermilion River","05120109","Vermilion",124,124
+"125","125","051201110102","Salt Fork","0512011101","Crabapple Creek","05120111","Middle Wabash-Busseron",125,125
+"126","126","051201110104","Goose Creek-Crabapple Creek","0512011101","Crabapple Creek","05120111","Middle Wabash-Busseron",126,126
+"127","127","051201110301","Coal Creek","0512011103","Brouilletts Creek","05120111","Middle Wabash-Busseron",127,127
+"128","128","051201121005","Mount Branch-North Fork Embarras River","0512011210","North Fork Embarras River","05120112","Embarras",128,128
+"129","129","051201121006","Panther Creek","0512011210","North Fork Embarras River","05120112","Embarras",129,129
+"130","130","051201120701","Clear Creek-Muddy Creek","0512011207","Muddy Creek","05120112","Embarras",130,130
+"131","131","051201120702","Mule Creek","0512011207","Muddy Creek","05120112","Embarras",131,131
+"132","132","051201120504","Greasy Creek","0512011205","Deer Creek-Embarras River","05120112","Embarras",132,132
+"133","133","051201120505","Dry Branch-Embarras River","0512011205","Deer Creek-Embarras River","05120112","Embarras",133,133
+"134","134","051201120601","Riley Creek","0512011206","Kickapoo Creek","05120112","Embarras",134,134
+"135","135","051201120602","Cassell Creek","0512011206","Kickapoo Creek","05120112","Embarras",135,135
+"136","136","051201120603","Sweetwater Creek-Kickapoo Creek","0512011206","Kickapoo Creek","05120112","Embarras",136,136
+"137","137","051201040205","Emerick Branch-Gangwer Ditch","0512010402","Gangwer Ditch-Eel River","05120104","Eel",137,137
+"138","138","051201040203","Krider Ditch-Eel River","0512010402","Gangwer Ditch-Eel River","05120104","Eel",138,138
+"139","139","051201040204","Solon Ditch-Eel river","0512010402","Gangwer Ditch-Eel River","05120104","Eel",139,139
+"140","140","051201120502","Town of Hindsboro-Deer Creek","0512011205","Deer Creek-Embarras River","05120112","Embarras",140,140
+"141","141","051201120503","Hog Branch","0512011205","Deer Creek-Embarras River","05120112","Embarras",141,141
+"142","142","051201120404","Jakes Branch-Little Embarras River","0512011204","Little Embarras River","05120112","Embarras",142,142
+"143","143","051201120501","Town of Hugo-Embarras River","0512011205","Deer Creek-Embarras River","05120112","Embarras",143,143
+"144","144","051201111703","Old Busseron Creek-Wabash River","0512011117","No Business Creek-Wabash River","05120111","Middle Wabash-Busseron",144,144
+"145","145","051201111903","Robeson Pond-Wabash River","0512011119","Kelso Creek-Wabash River","05120111","Middle Wabash-Busseron",145,145
+"146","146","051201030606","Town of Peoria-Mississinewa River","0512010306","Mississinewa River","05120103","Mississinewa",146,146
+"147","147","051201040102","Mud Run-Blue River","0512010401","Blue River","05120104","Eel",147,147
+"148","148","051201040103","Thorn Creek-Blue River","0512010401","Blue River","05120104","Eel",148,148
+"149","149","051201040104","Blue Babe Branch-Blue River","0512010401","Blue River","05120104","Eel",149,149
+"150","150","051201040201","Benward Ditch-Eel River","0512010402","Gangwer Ditch-Eel River","05120104","Eel",150,150
+"151","151","051201040202","Johnson Drain-Eel River","0512010402","Gangwer Ditch-Eel River","05120104","Eel",151,151
+"152","152","051201130201","England Ditch-Wabash River","0512011302","River Deshee-Wabash River","05120113","Lower Wabash",152,152
+"153","153","051201130204","Big Slough-Wabash River","0512011302","River Deshee-Wabash River","05120113","Lower Wabash",153,153
+"154","154","051201130206","Wabash Pond-Wabash River","0512011302","River Deshee-Wabash River","05120113","Lower Wabash",154,154
+"155","155","051201130304","Greathouse Creek-Wabash River","0512011303","Coffee Bayou-Wabash River","05120113","Lower Wabash",155,155
+"156","156","051201130305","Scott Ditch-Wabash River","0512011303","Coffee Bayou-Wabash River","05120113","Lower Wabash",156,156
+"157","157","051201130601","Goose Pond-Wabash River","0512011306","French Creek-Wabash River","05120113","Lower Wabash",157,157
+"158","158","051201130602","Onion Creek-French Creek","0512011306","French Creek-Wabash River","05120113","Lower Wabash",158,158
+"159","159","051201130603","Big Bayou-Wabash River","0512011306","French Creek-Wabash River","05120113","Lower Wabash",159,159
+"160","160","051201130407","Negro Creek-Bonpas Creek","0512011304","Bonpas Creek","05120113","Lower Wabash",160,160
+"161","161","051201130408","Mud Creek-Bonpas Creek","0512011304","Bonpas Creek","05120113","Lower Wabash",161,161
+"162","162","051201130802","Little Fox River-Fox River","0512011308","Fox River-Wabash River","05120113","Lower Wabash",162,162
+"163","163","051201140101","Lake Paradise-Little Wabash River","0512011401","Green Creek-Little Wabash River","05120114","Little Wabash",163,163
+"164","164","051201130801","Harmony Creek-Wabash River","0512011308","Fox River-Wabash River","05120113","Lower Wabash",164,164
+"165","165","051201010703","Stites Ditch-Rock Creek","0512010107","Rock Creek","05120101","Upper Wabash",165,165
+"166","166","051201010704","Elkenberry Ditch-Rock Creek","0512010107","Rock Creek","05120101","Upper Wabash",166,166
+"167","167","051201010801","Johns Creek-Wabash River","0512010108","Griffin Ditch-Wabash River","05120101","Upper Wabash",167,167
+"168","168","051201010802","Dowty Ditch-Wabash River","0512010108","Griffin Ditch-Wabash River","05120101","Upper Wabash",168,168
+"169","169","051201121202","Camp Creek-Embarras River","0512011212","Honey Creek-Embarras River","05120112","Embarras",169,169
+"170","170","051201121203","Pond Grove Creek","0512011212","Honey Creek-Embarras River","05120112","Embarras",170,170
+"171","171","051201121105","Bennett Creek-Big Creek","0512011211","Big Creek","05120112","Embarras",171,171
+"172","172","051201121201","Brush Creek-Embarras River","0512011212","Honey Creek-Embarras River","05120112","Embarras",172,172
+"173","173","051201121204","Dead River-Embarras Creek","0512011212","Honey Creek-Embarras River","05120112","Embarras",173,173
+"174","174","051201121205","Calfkiller Creek","0512011212","Honey Creek-Embarras River","05120112","Embarras",174,174
+"175","175","051201140105","West Branch Little Wabash River","0512011401","Green Creek-Little Wabash River","05120114","Little Wabash",175,175
+"176","176","051201140104","Bills Creek","0512011401","Green Creek-Little Wabash River","05120114","Little Wabash",176,176
+"177","177","051201140107","Henry Creek-Green Creek","0512011401","Green Creek-Little Wabash River","05120114","Little Wabash",177,177
+"178","178","051201140106","Shoal Creek-Little Wabash River","0512011401","Green Creek-Little Wabash River","05120114","Little Wabash",178,178
+"179","179","051201010903","Big Creek-Eightmile Creek","0512010109","Eightmile Creek","05120101","Upper Wabash",179,179
+"180","180","051201010902","Moser Lake-Eightmile Creek","0512010109","Eightmile Creek","05120101","Upper Wabash",180,180
+"181","181","051201011003","Robinson Creek","0512010110","Aboite Creek-Little River","05120101","Upper Wabash",181,181
+"182","182","051201010803","Bender Ditch-Wabash River","0512010108","Griffin Ditch-Wabash River","05120101","Upper Wabash",182,182
+"183","183","051201010804","Griffin Ditch-Wabash River","0512010108","Griffin Ditch-Wabash River","05120101","Upper Wabash",183,183
+"184","184","051201121301","Bugaboo Creek-Paul Creek","0512011213","Paul Creek-Muddy River","05120112","Embarras",184,184
+"185","185","051201121302","The Slough","0512011213","Paul Creek-Muddy River","05120112","Embarras",185,185
+"186","186","051201121303","Shirley Creek-Muddy Creek","0512011213","Paul Creek-Muddy River","05120112","Embarras",186,186
+"187","187","051201121401","Sugar Creek-Brushy Creek","0512011214","Brushy Creek","05120112","Embarras",187,187
+"188","188","051201121402","Birch Creek-Brushy Creek","0512011214","Brushy Creek","05120112","Embarras",188,188
+"189","189","051201121502","Beaver Pond Ditch","0512011215","Indian Creek-Embarras River","05120112","Embarras",189,189
+"190","190","051201121503","Allison Ditch","0512011215","Indian Creek-Embarras River","05120112","Embarras",190,190
+"191","191","051201121501","City of Bridgeport-Indian Creek","0512011215","Indian Creek-Embarras River","05120112","Embarras",191,191
+"192","192","051201121504","Old Channel Embarras River-Embarras River","0512011215","Indian Creek-Embarras River","05120112","Embarras",192,192
+"193","193","051201121206","Circle Pond-Embarras River","0512011212","Honey Creek-Embarras River","05120112","Embarras",193,193
+"194","194","051201121207","Painter Fork-Honey Creek","0512011212","Honey Creek-Embarras River","05120112","Embarras",194,194
+"195","195","051201121208","Carter Creek-Embarras River","0512011212","Honey Creek-Embarras River","05120112","Embarras",195,195
+"196","196","051201140103","Sexson Branch","0512011401","Green Creek-Little Wabash River","05120114","Little Wabash",196,196
+"197","197","051201140403","Limestone Creek-Fulfer Creek","0512011404","Fulfer Creek-Little Wabash River","05120114","Little Wabash",197,197
+"198","198","051201140404","Lily Creek-Little Wabash River","0512011404","Fulfer Creek-Little Wabash River","05120114","Little Wabash",198,198
+"199","199","051201140203","Brush Creek-Salt Creek","0512011402","Salt Creek","05120114","Little Wabash",199,199
+"200","200","051201140302","Ramsey Creek-Bishop Creek","0512011403","Bishop Creek","05120114","Little Wabash",200,200
+"201","201","051201140401","Old Altamont Reservoir-Second Creek","0512011404","Fulfer Creek-Little Wabash River","05120114","Little Wabash",201,201
+"202","202","051201140402","Coon Creek-Big Creek","0512011404","Fulfer Creek-Little Wabash River","05120114","Little Wabash",202,202
+"203","203","051201140108","Lake Sara-Blue Point Creek","0512011401","Green Creek-Little Wabash River","05120114","Little Wabash",203,203
+"204","204","051201140109","Blue Point Creek-Little Wabash River","0512011401","Green Creek-Little Wabash River","05120114","Little Wabash",204,204
+"205","205","051201140201","Second Salt Creek-Salt Creek","0512011402","Salt Creek","05120114","Little Wabash",205,205
+"206","206","051201140202","Little Salt Creek","0512011402","Salt Creek","05120114","Little Wabash",206,206
+"207","207","051201140301","Dieterich Creek","0512011403","Bishop Creek","05120114","Little Wabash",207,207
+"208","208","051201140405","Second Creek","0512011404","Fulfer Creek-Little Wabash River","05120114","Little Wabash",208,208
+"209","209","051201140406","Lucas Creek","0512011404","Fulfer Creek-Little Wabash River","05120114","Little Wabash",209,209
+"210","210","051201140407","Dismal Creek","0512011404","Fulfer Creek-Little Wabash River","05120114","Little Wabash",210,210
+"211","211","051201130101","Seed Creek-Raccoon Creek","0512011301","Raccoon Creek","05120113","Lower Wabash",211,211
+"212","212","051201130102","Buchanan Church","0512011301","Raccoon Creek","05120113","Lower Wabash",212,212
+"213","213","051201130103","Storckman Creek-Raccoon Creek","0512011301","Raccoon Creek","05120113","Lower Wabash",213,213
+"214","214","051201130205","Crawfish Creek","0512011302","River Deshee-Wabash River","05120113","Lower Wabash",214,214
+"215","215","051201130303","Coffee Creek","0512011303","Coffee Bayou-Wabash River","05120113","Lower Wabash",215,215
+"216","216","051201130401","Lake Montclare-Bonpas Creek","0512011304","Bonpas Creek","05120113","Lower Wabash",216,216
+"217","217","051201130402","Little Bonpas Creek","0512011304","Bonpas Creek","05120113","Lower Wabash",217,217
+"218","218","051201010402","Shirk Votaw Ditch-Camp Run","0512010104","Loblolly Creek","05120101","Upper Wabash",218,218
+"219","219","051201140410","Coon Creek-Little Wabash River","0512011404","Fulfer Creek-Little Wabash River","05120114","Little Wabash",219,219
+"220","220","051201140501","Limestone Creek","0512011405","Big Muddy Creek","05120114","Little Wabash",220,220
+"221","221","051201140502","Crabapple Creek-Big Muddy Creek","0512011405","Big Muddy Creek","05120114","Little Wabash",221,221
+"222","222","051201140503","Newton Lake","0512011405","Big Muddy Creek","05120114","Little Wabash",222,222
+"223","223","051201140504","Weather Creek","0512011405","Big Muddy Creek","05120114","Little Wabash",223,223
+"224","224","051201140408","Crooked Creek","0512011404","Fulfer Creek-Little Wabash River","05120114","Little Wabash",224,224
+"225","225","051201140409","Panther Creek","0512011404","Fulfer Creek-Little Wabash River","05120114","Little Wabash",225,225
+"226","226","051201011002","Beal Taylor Ditch-Aboite Creek","0512010110","Aboite Creek-Little River","05120101","Upper Wabash",226,226
+"227","227","051201011004","Graham McCulloch Ditch Number One-Little River","0512010110","Aboite Creek-Little River","05120101","Upper Wabash",227,227
+"228","228","051201130405","Walser Creek-Bonpas Creek","0512011304","Bonpas Creek","05120113","Lower Wabash",228,228
+"229","229","051201140708","Gerber Lateral-Elm River","0512011407","Elm River","05120114","Little Wabash",229,229
+"230","230","051201130403","Crooked Creek-Bonpas Creek","0512011304","Bonpas Creek","05120113","Lower Wabash",230,230
+"231","231","051201130406","Indian Creek-Bonpas Creek","0512011304","Bonpas Creek","05120113","Lower Wabash",231,231
+"232","232","051201130404","Fordice Creek","0512011304","Bonpas Creek","05120113","Lower Wabash",232,232
+"233","233","051201010601","Jamstutz Ditch-Wabash River","0512010106","Sixmile Creek-Wabash River","05120101","Upper Wabash",233,233
+"234","234","051201010603","Johns Creek-Sixmile Creek","0512010106","Sixmile Creek-Wabash River","05120101","Upper Wabash",234,234
+"235","235","051201010701","Headwaters Rock Creek","0512010107","Rock Creek","05120101","Upper Wabash",235,235
+"236","236","051201010403","Bear Creek","0512010104","Loblolly Creek","05120101","Upper Wabash",236,236
+"237","237","051201010604","Rice Ditch-Wabash River","0512010106","Sixmile Creek-Wabash River","05120101","Upper Wabash",237,237
+"238","238","051201010702","Mossburg Ditch","0512010107","Rock Creek","05120101","Upper Wabash",238,238
+"239","239","051201010901","Maple Creek-Eightmile Creek","0512010109","Eightmile Creek","05120101","Upper Wabash",239,239
+"240","240","051201140707","Deer Creek","0512011407","Elm River","05120114","Little Wabash",240,240
+"241","241","051201140709","Emmons Creek-Elm River","0512011407","Elm River","05120114","Little Wabash",241,241
+"242","242","051201010404","Oakley Ditch-Limberlost Creek","0512010104","Loblolly Creek","05120101","Upper Wabash",242,242
+"243","243","051201010405","Votaw Ditch-Loblolly Creek","0512010104","Loblolly Creek","05120101","Upper Wabash",243,243
+"244","244","051201140706","Martin Creek","0512011407","Elm River","05120114","Little Wabash",244,244
+"245","245","051201011406","Gilbert Branch-Wabash River","0512010114","Treaty Creek-Wabash River","05120101","Upper Wabash",245,245
+"246","246","051201011407","Daniel Creek-Wabash River","0512010114","Treaty Creek-Wabash River","05120101","Upper Wabash",246,246
+"247","247","051201010904","Pleasant Run Ditch-Eightmile Creek","0512010109","Eightmile Creek","05120101","Upper Wabash",247,247
+"248","248","051201011001","Seegar Ditch","0512010110","Aboite Creek-Little River","05120101","Upper Wabash",248,248
+"249","249","051201140505","Wet Weather Creek","0512011405","Big Muddy Creek","05120114","Little Wabash",249,249
+"250","250","051201011502","Stony Creek-Pipe Creek","0512010115","Pipe Creek","05120101","Upper Wabash",250,250
+"251","251","051201140902","Johnson Creek-Pond Creek","0512011409","Pond Creek-Little Wabash River","05120114","Little Wabash",251,251
+"252","252","051201140901","Briar Branch","0512011409","Pond Creek-Little Wabash River","05120114","Little Wabash",252,252
+"253","253","051201011005","Little Indian Creek-Aboite Creek","0512010110","Aboite Creek-Little River","05120101","Upper Wabash",253,253
+"254","254","051201011006","Cow Creek-Little River","0512010110","Aboite Creek-Little River","05120101","Upper Wabash",254,254
+"255","255","051201140601","Long Branch","0512011406","Fox River","05120114","Little Wabash",255,255
+"256","256","051201140602","East Fork Lake","0512011406","Fox River","05120114","Little Wabash",256,256
+"257","257","051201140603","Little Fox Creek","0512011406","Fox River","05120114","Little Wabash",257,257
+"258","258","051201011503","Turkey Creek-Little Pipe Creek","0512010115","Pipe Creek","05120101","Upper Wabash",258,258
+"259","259","051201140804","Shelby Creek-Sugar Creek","0512011408","Villiage Creek-Little Wabash River","05120114","Little Wabash",259,259
+"260","260","051201140805","Gum Branch","0512011408","Villiage Creek-Little Wabash River","05120114","Little Wabash",260,260
+"261","261","051201140806","West Village Creek-Village Creek","0512011408","Villiage Creek-Little Wabash River","05120114","Little Wabash",261,261
+"262","262","051201140807","Bear Creek-Little Wabash River","0512011408","Villiage Creek-Little Wabash River","05120114","Little Wabash",262,262
+"263","263","051201011101","Flat Creek","0512010111","Little River","05120101","Upper Wabash",263,263
+"264","264","051201140508","Little Muddy Creek","0512011405","Big Muddy Creek","05120114","Little Wabash",264,264
+"265","265","051201140509","Turkey Point-Big Muddy Creek","0512011405","Big Muddy Creek","05120114","Little Wabash",265,265
+"266","266","051201011102","Bull Creek-Little River","0512010111","Little River","05120101","Upper Wabash",266,266
+"267","267","051201140506","Hurricane Creek","0512011405","Big Muddy Creek","05120114","Little Wabash",267,267
+"268","268","051201140507","Sugar Creek","0512011405","Big Muddy Creek","05120114","Little Wabash",268,268
+"269","269","051201140710","Bail Creek-Elm River","0512011407","Elm River","05120114","Little Wabash",269,269
+"270","270","051201140801","Buck Creek","0512011408","Villiage Creek-Little Wabash River","05120114","Little Wabash",270,270
+"271","271","051201140802","Grove Creek-Little Wabash River","0512011408","Villiage Creek-Little Wabash River","05120114","Little Wabash",271,271
+"272","272","051201140803","Hog Run Creek-Little Wabash River","0512011408","Villiage Creek-Little Wabash River","05120114","Little Wabash",272,272
+"273","273","051201011501","Headwaters Pipe Creek","0512010115","Pipe Creek","05120101","Upper Wabash",273,273
+"274","274","051201060105","Tippecanoe Lake-Tippecanoe River","0512010601","Grassy Creek-Tippecanoe River","05120106","Tippecanoe",274,274
+"275","275","051201140604","McCarthy Lake-Sugar Creek","0512011406","Fox River","05120114","Little Wabash",275,275
+"276","276","051201140605","Mash Creek-Fox River","0512011406","Fox River","05120114","Little Wabash",276,276
+"277","277","051201140606","Gentry Creek-Fox River","0512011406","Fox River","05120114","Little Wabash",277,277
+"278","278","051201011303","Town of Andrews-Wabash River","0512010113","Loon Creek-Wabash River","05120101","Upper Wabash",278,278
+"279","279","051201011304","Loon Creek","0512010113","Loon Creek-Wabash River","05120101","Upper Wabash",279,279
+"280","280","051201011103","Mud Creek-Little River","0512010111","Little River","05120101","Upper Wabash",280,280
+"281","281","051201140705","Sycamore Creek-Elm River","0512011407","Elm River","05120114","Little Wabash",281,281
+"282","282","051201011301","Huntington Lake-Wabash River","0512010113","Loon Creek-Wabash River","05120101","Upper Wabash",282,282
+"283","283","051201011302","Silver Creek","0512010113","Loon Creek-Wabash River","05120101","Upper Wabash",283,283
+"284","284","051201011402","Stone Creek-Treaty Creek","0512010114","Treaty Creek-Wabash River","05120101","Upper Wabash",284,284
+"285","285","051201011403","Burr Creek-Wabash River","0512010114","Treaty Creek-Wabash River","05120101","Upper Wabash",285,285
+"286","286","051201011305","Hanging Rock-Wabash River","0512010113","Loon Creek-Wabash River","05120101","Upper Wabash",286,286
+"287","287","051201011401","Enyeart Creek-Wabash River","0512010114","Treaty Creek-Wabash River","05120101","Upper Wabash",287,287
+"288","288","051201140701","Bear Creek","0512011407","Elm River","05120114","Little Wabash",288,288
+"289","289","051201140702","Raccoon Creek","0512011407","Elm River","05120114","Little Wabash",289,289
+"290","290","051201140703","Elm Creek","0512011407","Elm River","05120114","Little Wabash",290,290
+"291","291","051201140704","Endsley Creek","0512011407","Elm River","05120114","Little Wabash",291,291
+"292","292","051201011104","Flint Creek-Little River","0512010111","Little River","05120101","Upper Wabash",292,292
+"293","293","051201011201","West Branch Clear Creek","0512010112","Clear Creek","05120101","Upper Wabash",293,293
+"294","294","051201011202","Headwaters Clear Creek","0512010112","Clear Creek","05120101","Upper Wabash",294,294
+"295","295","051201080608","Mallory Branch-Wabash River","0512010806","Big Shawnee Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",295,295
+"296","296","051202090404","Calmut Run-Patoka River","0512020904","Altar Ceek-Patoka River","05120209","Patoka",296,296
+"297","297","051201080701","Headwaters North Fork Coal Creek","0512010807","East Fork Coal Creek","05120108","Middle Wabash-Little Vermilion",297,297
+"298","298","051202090105","Lick Fork-Patoka Lake","0512020901","Patoka Lake-Patoka River","05120209","Patoka",298,298
+"299","299","051202090106","Painter Creek-Patoka River","0512020901","Patoka Lake-Patoka River","05120209","Patoka",299,299
+"300","300","051202090201","Hall Creek","0512020902","Straight River","05120209","Patoka",300,300
+"301","301","051202090202","Richland Creek-Flat Creek","0512020902","Straight River","05120209","Patoka",301,301
+"302","302","051202090301","Green Creek-Hunley Creek","0512020903","Hunley Creek","05120209","Patoka",302,302
+"303","303","051202090302","Bruner Creek","0512020903","Hunley Creek","05120209","Patoka",303,303
+"304","304","051202090303","Indian Creek-Hunley Creek","0512020903","Hunley Creek","05120209","Patoka",304,304
+"305","305","051202090402","Davis Creek-Patoka River","0512020904","Altar Ceek-Patoka River","05120209","Patoka",305,305
+"306","306","051202090403","Beaver Creek-Patoka River","0512020904","Altar Ceek-Patoka River","05120209","Patoka",306,306
+"307","307","051202090401","Cane Creek-Dillon Creek","0512020904","Altar Ceek-Patoka River","05120209","Patoka",307,307
+"308","308","051202030701","Van Buren Creek-Croys Creek","0512020307","Jordan Creek-Eel River","05120203","Eel",308,308
+"309","309","051201011404","Ridgeway Creek","0512010114","Treaty Creek-Wabash River","05120101","Upper Wabash",309,309
+"310","310","051201011405","Kentner Creek","0512010114","Treaty Creek-Wabash River","05120101","Upper Wabash",310,310
+"311","311","051202030509","Vermillion Branch-Mill Creek","0512020305","Mill Creek","05120203","Eel",311,311
+"312","312","051202030510","Sand Branch-Mill Creek","0512020305","Mill Creek","05120203","Eel",312,312
+"313","313","051202030511","Doe Creek","0512020305","Mill Creek","05120203","Eel",313,313
+"314","314","051202030512","Cagles Mill Lake-Mill Creek","0512020305","Mill Creek","05120203","Eel",314,314
+"315","315","051202030601","Little Birch Creek-Birch Creek","0512020306","Birch Creek","05120203","Eel",315,315
+"316","316","051202010305","York Prairie Creek-White River","0512020103","Killbuck Creek-White River","05120201","Upper White",316,316
+"317","317","051202030508","Belle Union Branch-Mill Creek","0512020305","Mill Creek","05120203","Eel",317,317
+"318","318","051202010306","Shoemaker Ditch-White River","0512020103","Killbuck Creek-White River","05120201","Upper White",318,318
+"319","319","051202010307","Moon Branch-Killbuck Creek","0512020103","Killbuck Creek-White River","05120201","Upper White",319,319
+"320","320","051201080602","Little Shawnee Creek-Big Shawnee Creek","0512010806","Big Shawnee Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",320,320
+"321","321","051201080603","Fall Branch-Wabash River","0512010806","Big Shawnee Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",321,321
+"322","322","051202030602","Prairie Creek-Birch Creek","0512020306","Birch Creek","05120203","Eel",322,322
+"323","323","051201080506","Armstrong Creek-Little Pine Creek","0512010805","Kickapoo Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",323,323
+"324","324","051201080508","Headwaters Kickapoo Creek","0512010805","Kickapoo Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",324,324
+"325","325","051201080509","West Fork Kickapoo Creek-Kickapoo Creek","0512010805","Kickapoo Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",325,325
+"326","326","051201080510","Turkey Run-Wabash River","0512010805","Kickapoo Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",326,326
+"327","327","051201080601","Headwaters Big Shawnee Creek","0512010806","Big Shawnee Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",327,327
+"328","328","051201080507","Flint Creek-Wabash River","0512010805","Kickapoo Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",328,328
+"329","329","051202081504","Sugar Creek-East Fork White River","0512020815","East Fork White River","05120208","Lower East Fork White",329,329
+"330","330","051201030105","Mud Creek-Mississinewa River","0512010301","Headwaters Mississinewa River","05120103","Mississinewa",330,330
+"331","331","051201030201","Days Creek","0512010302","Halfway Creek-Mississinewa River","05120103","Mississinewa",331,331
+"332","332","051201080404","Owens Ditch-Big Pine Creek","0512010804","Big Pine Creek","05120108","Middle Wabash-Little Vermilion",332,332
+"333","333","051202080905","Sulphur Creek","0512020809","Indian Creek","05120208","Lower East Fork White",333,333
+"334","334","051202080906","Opossum Creek-Indian Creek","0512020809","Indian Creek","05120208","Lower East Fork White",334,334
+"335","335","051202081003","Leatherwood Creek","0512020810","Leatherwood Creek-East Fork White River","05120208","Lower East Fork White",335,335
+"336","336","051202081005","Crooked Creek-East Fork White River","0512020810","Leatherwood Creek-East Fork White River","05120208","Lower East Fork White",336,336
+"337","337","051202081006","Henshaw Bend-East Fork White River","0512020810","Leatherwood Creek-East Fork White River","05120208","Lower East Fork White",337,337
+"338","338","051202081101","Turkey Creek-Boggs Creek","0512020811","Boggs Creek","05120208","Lower East Fork White",338,338
+"339","339","051202081102","West Boggs Lake","0512020811","Boggs Creek","05120208","Lower East Fork White",339,339
+"340","340","051202081103","Seed Tick Creek-Boggs Creek","0512020811","Boggs Creek","05120208","Lower East Fork White",340,340
+"341","341","051202080904","Silverville Branch-Indian Creek","0512020809","Indian Creek","05120208","Lower East Fork White",341,341
+"342","342","051202081001","Headwaters Leatherwood Creek","0512020810","Leatherwood Creek-East Fork White River","05120208","Lower East Fork White",342,342
+"343","343","051202081002","Sheeks Lake-East Fork White River","0512020810","Leatherwood Creek-East Fork White River","05120208","Lower East Fork White",343,343
+"344","344","051202030702","Billy Creek-Croys Creek","0512020307","Jordan Creek-Eel River","05120203","Eel",344,344
+"345","345","051202030801","Headwaters Splunge Creek","0512020308","Eel River","05120203","Eel",345,345
+"346","346","051202030802","Splunge Creek","0512020308","Eel River","05120203","Eel",346,346
+"347","347","051202030703","Jordan Creek","0512020307","Jordan Creek-Eel River","05120203","Eel",347,347
+"348","348","051202030704","Slate Run-Eel River","0512020307","Jordan Creek-Eel River","05120203","Eel",348,348
+"349","349","051202030705","Sulphur Creek-Sixmile Creek","0512020307","Jordan Creek-Eel River","05120203","Eel",349,349
+"350","350","051202080903","Spring Creek-Indian Creek","0512020809","Indian Creek","05120208","Lower East Fork White",350,350
+"351","351","051202010403","Star Creek-Mud Creek","0512020104","Pipe Creek","05120201","Upper White",351,351
+"352","352","051202010404","Polecat Creek-Pipe Creek","0512020104","Pipe Creek","05120201","Upper White",352,352
+"353","353","051202030706","Hog Creek-Eel River","0512020307","Jordan Creek-Eel River","05120203","Eel",353,353
+"354","354","051202010502","Little Duck Creek-Big Duck Creek","0512020105","Duck Creek","05120201","Upper White",354,354
+"355","355","051202010310","Town of Perkinsville-White River","0512020103","Killbuck Creek-White River","05120201","Upper White",355,355
+"356","356","051202010402","Stem Run-Pipe Creek","0512020104","Pipe Creek","05120201","Upper White",356,356
+"357","357","051202010308","Turkey Creek-White River","0512020103","Killbuck Creek-White River","05120201","Upper White",357,357
+"358","358","051202010309","Elm Run-Indian Creek","0512020103","Killbuck Creek-White River","05120201","Upper White",358,358
+"359","359","051201030301","Little Lick Creek-Big Lick Creek","0512010303","Big Lick Creek","05120103","Mississinewa",359,359
+"360","360","051202010503","Polywog Creek-Duck Creek","0512020105","Duck Creek","05120201","Upper White",360,360
+"361","361","051201080705","Headwaters East Fork Coal Creek","0512010807","East Fork Coal Creek","05120108","Middle Wabash-Little Vermilion",361,361
+"362","362","051202010407","Shell Cemetary-Pipe Creek","0512020104","Pipe Creek","05120201","Upper White",362,362
+"363","363","051202010501","Todd Ditch-Big Duck Creek","0512020105","Duck Creek","05120201","Upper White",363,363
+"364","364","051201080706","Town of Hillsboro-East Fork Coal Creek","0512010807","East Fork Coal Creek","05120108","Middle Wabash-Little Vermilion",364,364
+"365","365","051202010405","Lilly Creek-Pipe Creek","0512020104","Pipe Creek","05120201","Upper White",365,365
+"366","366","051202010406","Swanfelt Ditch-Pipe Creek","0512020104","Pipe Creek","05120201","Upper White",366,366
+"367","367","051201030204","Bush Creek","0512010302","Halfway Creek-Mississinewa River","05120103","Mississinewa",367,367
+"368","368","051201030206","Dinner Creek-Mississinewa River","0512010302","Halfway Creek-Mississinewa River","05120103","Mississinewa",368,368
+"369","369","051202010401","Yeager Finley Manard Ditch-Pipe Creek","0512020104","Pipe Creek","05120201","Upper White",369,369
+"370","370","051202081004","Town of Bryantsville","0512020810","Leatherwood Creek-East Fork White River","05120208","Lower East Fork White",370,370
+"371","371","051201080702","Turkey Run","0512010807","East Fork Coal Creek","05120108","Middle Wabash-Little Vermilion",371,371
+"372","372","051201080703","Charles Ludlow Ditch-North Fork Coal Creek","0512010807","East Fork Coal Creek","05120108","Middle Wabash-Little Vermilion",372,372
+"373","373","051201080704","Harrison Lake-Coal Creek","0512010807","East Fork Coal Creek","05120108","Middle Wabash-Little Vermilion",373,373
+"374","374","051201030205","Redkey Run-Halfway Creek","0512010302","Halfway Creek-Mississinewa River","05120103","Mississinewa",374,374
+"375","375","051201030202","Bear Creek","0512010302","Halfway Creek-Mississinewa River","05120103","Mississinewa",375,375
+"376","376","051201030203","Fetid Creek-Mississinewa River","0512010302","Halfway Creek-Mississinewa River","05120103","Mississinewa",376,376
+"377","377","051201080407","Brown Ditch","0512010804","Big Pine Creek","05120108","Middle Wabash-Little Vermilion",377,377
+"378","378","051201080409","Pine Village-Big Pine Creek","0512010804","Big Pine Creek","05120108","Middle Wabash-Little Vermilion",378,378
+"379","379","051201080410","Hog Back Hill-Big Pine Creek","0512010804","Big Pine Creek","05120108","Middle Wabash-Little Vermilion",379,379
+"380","380","051201080503","Lost Creek-Wabash River","0512010805","Kickapoo Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",380,380
+"381","381","051201080405","Brumm Ditch-Big Pine Creek","0512010804","Big Pine Creek","05120108","Middle Wabash-Little Vermilion",381,381
+"382","382","051201080406","Darby Ditch-Big Pine Creek","0512010804","Big Pine Creek","05120108","Middle Wabash-Little Vermilion",382,382
+"383","383","051201080408","Harrington Ditch-Big Pine Creek","0512010804","Big Pine Creek","05120108","Middle Wabash-Little Vermilion",383,383
+"384","384","051202081205","Water Run-Lost River","0512020812","Dry Branch-Lost River","05120208","Lower East Fork White",384,384
+"385","385","051202081206","Dry Branch-Lost River","0512020812","Dry Branch-Lost River","05120208","Lower East Fork White",385,385
+"386","386","051202081203","South Fork Lost River","0512020812","Dry Branch-Lost River","05120208","Lower East Fork White",386,386
+"387","387","051202081204","Carters Creek-Lost River","0512020812","Dry Branch-Lost River","05120208","Lower East Fork White",387,387
+"388","388","051202081301","Headwaters Lick Creek","0512020813","Lost River","05120208","Lower East Fork White",388,388
+"389","389","051202081302","Log Creek-Lick Creek","0512020813","Lost River","05120208","Lower East Fork White",389,389
+"390","390","051202040101","Moonshine Run-Little Blue river","0512020401","Duck Creek-Big Blue River","05120204","Driftwood",390,390
+"391","391","051202040102","Summit Lake Reservoir-Big Blue River","0512020401","Duck Creek-Big Blue River","05120204","Driftwood",391,391
+"392","392","051202030803","Watkins Creek-Eel River","0512020308","Eel River","05120203","Eel",392,392
+"393","393","051202030805","Lafferty Ditch-Eel River","0512020308","Eel River","05120203","Eel",393,393
+"394","394","051202030806","West Fork Lick Creek","0512020308","Eel River","05120203","Eel",394,394
+"395","395","051202030807","Hauser Creek-Lick Creek","0512020308","Eel River","05120203","Eel",395,395
+"396","396","051202030808","Lagoon Creek","0512020308","Eel River","05120203","Eel",396,396
+"397","397","051202030809","Pond Creek-Eel River","0512020308","Eel River","05120203","Eel",397,397
+"398","398","051202030810","Brush Creek-Eel River","0512020308","Eel River","05120203","Eel",398,398
+"399","399","051202030811","Lemon Creek-Eel River","0512020308","Eel River","05120203","Eel",399,399
+"400","400","051202040108","Goose Creek-Big Blue River","0512020401","Duck Creek-Big Blue River","05120204","Driftwood",400,400
+"401","401","051202010504","Bear Creek","0512020105","Duck Creek","05120201","Upper White",401,401
+"402","402","051202040104","Jakes Branch-Duck Creek","0512020401","Duck Creek-Big Blue River","05120204","Driftwood",402,402
+"403","403","051202040105","Knightstown Spring-Buck Creek","0512020401","Duck Creek-Big Blue River","05120204","Driftwood",403,403
+"404","404","051202040106","Westwood Run-Big Blue River","0512020401","Duck Creek-Big Blue River","05120204","Driftwood",404,404
+"405","405","051202010505","Lamberson Ditch-Duck Creek","0512020105","Duck Creek","05120201","Upper White",405,405
+"406","406","051202010601","Prairie Creek","0512020106","Cicero Creek","05120201","Upper White",406,406
+"407","407","051202010602","Headwaters Cicero Creek","0512020106","Cicero Creek","05120201","Upper White",407,407
+"408","408","051202040103","Elliott Run-Big Blue River","0512020401","Duck Creek-Big Blue River","05120204","Driftwood",408,408
+"409","409","051202010705","Mallery Granger Ditch-White River","0512020107","Stony Creek-White River","05120201","Upper White",409,409
+"410","410","051201090506","Bean Creek","0512010905","Middle Fork Vermillion River","05120109","Vermilion",410,410
+"411","411","051201090507","Knights Branch-Middle Fork Vermilion River","0512010905","Middle Fork Vermillion River","05120109","Vermilion",411,411
+"412","412","051202040107","Montgomery Creek","0512020401","Duck Creek-Big Blue River","05120204","Driftwood",412,412
+"413","413","051202040201","Headwaters Little Blue River","0512020402","Little Blue River","05120204","Driftwood",413,413
+"414","414","051201090306","Rush Branch-Salt Fork","0512010903","Upper Salt Fork Drainage Ditch-Salt Fork","05120109","Vermilion",414,414
+"415","415","051201090401","Headwaters Stony Creek","0512010904","Stony Creek","05120109","Vermilion",415,415
+"416","416","051201090402","Stony Creek","0512010904","Stony Creek","05120109","Vermilion",416,416
+"417","417","051201090501","Sugar Creek","0512010905","Middle Fork Vermillion River","05120109","Vermilion",417,417
+"418","418","051201090502","Pleasant Grove Cemetery-Middle Fork Vermillion River","0512010905","Middle Fork Vermillion River","05120109","Vermilion",418,418
+"419","419","051201090503","Buck Creek-Middle Fork Vermillion River","0512010905","Middle Fork Vermillion River","05120109","Vermilion",419,419
+"420","420","051201090504","Bluegrass Creek","0512010905","Middle Fork Vermillion River","05120109","Vermilion",420,420
+"421","421","051201090505","City of Armstrong-Middle Fork Vermilion River","0512010905","Middle Fork Vermillion River","05120109","Vermilion",421,421
+"422","422","051202081201","Stampers Creek","0512020812","Dry Branch-Lost River","05120208","Lower East Fork White",422,422
+"423","423","051202081202","Town of Orleans","0512020812","Dry Branch-Lost River","05120208","Lower East Fork White",423,423
+"424","424","051201080501","Indian Creek","0512010805","Kickapoo Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",424,424
+"425","425","051201080502","Jordan Creek-Wabash River","0512010805","Kickapoo Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",425,425
+"426","426","051201080504","Flint Run-Flint Creek","0512010805","Kickapoo Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",426,426
+"427","427","051201080505","Otterbein Ditch-Little Pine Creek","0512010805","Kickapoo Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",427,427
+"428","428","051202010110","Truitt Ditch-White River","0512020101","Muncie Creek-White River","05120201","Upper White",428,428
+"429","429","051202010111","Muncie Creek-White River","0512020101","Muncie Creek-White River","05120201","Upper White",429,429
+"430","430","051202081406","Friends Creek-East Fork White River","0512020814","Barn Run-East Fork White River","05120208","Lower East Fork White",430,430
+"431","431","051202081501","East Fork Mill Creek-Mill Creek","0512020815","East Fork White River","05120208","Lower East Fork White",431,431
+"432","432","051202081503","Slate Creek","0512020815","East Fork White River","05120208","Lower East Fork White",432,432
+"433","433","051202081403","Beaver Creek","0512020814","Barn Run-East Fork White River","05120208","Lower East Fork White",433,433
+"434","434","051202081407","Plaster Creek-East Fork White River","0512020814","Barn Run-East Fork White River","05120208","Lower East Fork White",434,434
+"435","435","051202081404","Beech Creek-East Fork White River","0512020814","Barn Run-East Fork White River","05120208","Lower East Fork White",435,435
+"436","436","051202081405","Haw Creek","0512020814","Barn Run-East Fork White River","05120208","Lower East Fork White",436,436
+"437","437","051202081304","French Lick Creek","0512020813","Lost River","05120208","Lower East Fork White",437,437
+"438","438","051202081305","Sulphur Creek-Lost River","0512020813","Lost River","05120208","Lower East Fork White",438,438
+"439","439","051202081306","Sams Creek-Lost River","0512020813","Lost River","05120208","Lower East Fork White",439,439
+"440","440","051202081307","Big Creek-Lost River","0512020813","Lost River","05120208","Lower East Fork White",440,440
+"441","441","051201080604","Rock Creek-Wabash River","0512010806","Big Shawnee Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",441,441
+"442","442","051201050104","Grants Run-Wabash River","0512010501","Crooked Creek-Wabash River","05120105","Middle Wabash-Deer",442,442
+"443","443","051201050201","Toney Ditch-Rock Creek","0512010502","Rock Creek-Wabash River","05120105","Middle Wabash-Deer",443,443
+"444","444","051202081303","Scott Hollow-Lick Creek","0512020813","Lost River","05120208","Lower East Fork White",444,444
+"445","445","051202081308","Grassy Creek-Lost River","0512020813","Lost River","05120208","Lower East Fork White",445,445
+"446","446","051202081401","Half Moon Lake","0512020814","Barn Run-East Fork White River","05120208","Lower East Fork White",446,446
+"447","447","051202081402","South Fork Beaver Creek","0512020814","Barn Run-East Fork White River","05120208","Lower East Fork White",447,447
+"448","448","051202081505","Dogwood Lake-Mud Creek","0512020815","East Fork White River","05120208","Lower East Fork White",448,448
+"449","449","051202081506","Birch Creek-East Fork White River","0512020815","East Fork White River","05120208","Lower East Fork White",449,449
+"450","450","051202081507","Aikman Creek","0512020815","East Fork White River","05120208","Lower East Fork White",450,450
+"451","451","051202081508","Bear Creek-East Fork White River","0512020815","East Fork White River","05120208","Lower East Fork White",451,451
+"452","452","051201080605","Redwood Creek","0512010806","Big Shawnee Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",452,452
+"453","453","051201080606","Opossum Run","0512010806","Big Shawnee Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",453,453
+"454","454","051202090101","Fudge Creek-Patoka River","0512020901","Patoka Lake-Patoka River","05120209","Patoka",454,454
+"455","455","051202090102","Youngs Creek-Patoka River","0512020901","Patoka Lake-Patoka River","05120209","Patoka",455,455
+"456","456","051202040204","Manilla Branch-Little Blue River","0512020402","Little Blue River","05120204","Driftwood",456,456
+"457","457","051202040205","Town of Rays Crossing-Little Blue River","0512020402","Little Blue River","05120204","Driftwood",457,457
+"458","458","051202090703","Wheeler Creek-South Fork Patoka River","0512020907","South Fork Patoka River","05120209","Patoka",458,458
+"459","459","051202090801","Keg Creek","0512020908","Patoka River","05120209","Patoka",459,459
+"460","460","051202040202","Beaver Meadow Creek","0512020402","Little Blue River","05120204","Driftwood",460,460
+"461","461","051202081509","Mud Creek-East Fork White River","0512020815","East Fork White River","05120208","Lower East Fork White",461,461
+"462","462","051202090103","Little Patoka River-Patoka Lake","0512020901","Patoka Lake-Patoka River","05120209","Patoka",462,462
+"463","463","051202090104","Dumpling Branch-Patoka River","0512020901","Patoka Lake-Patoka River","05120209","Patoka",463,463
+"464","464","051202040203","Gilson Creek-Little Blue River","0512020402","Little Blue River","05120204","Driftwood",464,464
+"465","465","051201090904","Grape Creek","0512010909","Vermilion River","05120109","Vermilion",465,465
+"466","466","051201110101","Bonwell Branch-Salt Fork","0512011101","Crabapple Creek","05120111","Middle Wabash-Busseron",466,466
+"467","467","051201110103","Town of Scottland-Crabapple Creek","0512011101","Crabapple Creek","05120111","Middle Wabash-Busseron",467,467
+"468","468","051201110201","Shiloh Special Drainage Ditch-Brouilletts Creek","0512011102","South Fork Brouilletts Creek","05120111","Middle Wabash-Busseron",468,468
+"469","469","051201110202","Willow Creek-South Fork Brouilletts Creek","0512011102","South Fork Brouilletts Creek","05120111","Middle Wabash-Busseron",469,469
+"470","470","051201110203","Snake Creek-Brouilletts Creek","0512011102","South Fork Brouilletts Creek","05120111","Middle Wabash-Busseron",470,470
+"471","471","051201110501","Twin Lakes-Sugar Creek","0512011105","Sugar Creek","05120111","Middle Wabash-Busseron",471,471
+"472","472","051201110502","City of Paris-Sugar Creek","0512011105","Sugar Creek","05120111","Middle Wabash-Busseron",472,472
+"473","473","051201110801","Headwaters East Fork Big Creek","0512011108","Big Creek","05120111","Middle Wabash-Busseron",473,473
+"474","474","051201110802","West Fork Big Creek","0512011108","Big Creek","05120111","Middle Wabash-Busseron",474,474
+"475","475","051202090603","Mill Creek-Patoka River","0512020906","Stone Coe Creek-Patoka River","05120209","Patoka",475,475
+"476","476","051201090602","Olive Branch","0512010906","Salt Fork","05120109","Vermilion",476,476
+"477","477","051201090603","Bodkin Cemetery-Salt Fork","0512010906","Salt Fork","05120109","Vermilion",477,477
+"478","478","051201090604","Jordan Creek","0512010906","Salt Fork","05120109","Vermilion",478,478
+"479","479","051201090605","Salt Fork","0512010906","Salt Fork","05120109","Vermilion",479,479
+"480","480","051201090706","Middle Branch","0512010907","Jordan Creek-Middle Branch","05120109","Vermilion",480,480
+"481","481","051201090803","Red Top Cemetery-North Fork Vermilion River","0512010908","North Fork Vermilion River","05120109","Vermilion",481,481
+"482","482","051201090804","Lake De Revey-North Fork Vermilion River","0512010908","North Fork Vermilion River","05120109","Vermilion",482,482
+"483","483","051201090805","Painter Creek-North Fork Vermilion River","0512010908","North Fork Vermilion River","05120109","Vermilion",483,483
+"484","484","051202010303","Thurston Ditch-Killbuck Creek","0512020103","Killbuck Creek-White River","05120201","Upper White",484,484
+"485","485","051202010304","Little Killbuck Creek","0512020103","Killbuck Creek-White River","05120201","Upper White",485,485
+"486","486","051201030302","Townsand Lucas Ditch-Big Lick Creek","0512010303","Big Lick Creek","05120103","Mississinewa",486,486
+"487","487","051201090806","Lake Vermillion-North Fork Vermilion River","0512010908","North Fork Vermilion River","05120109","Vermilion",487,487
+"488","488","051202010301","Mud Creek-Killbuck Creek","0512020103","Killbuck Creek-White River","05120201","Upper White",488,488
+"489","489","051202010302","Jakes Creek","0512020103","Killbuck Creek-White River","05120201","Upper White",489,489
+"490","490","051201090508","Windfall Creek-Middle Fork Vermilion River","0512010905","Middle Fork Vermillion River","05120109","Vermilion",490,490
+"491","491","051202010202","Bethel Brook-Bell Creek","0512020102","Bell Creek-Buck Creek","05120201","Upper White",491,491
+"492","492","051201090509","Middle Fork Vermilion River","0512010905","Middle Fork Vermillion River","05120109","Vermilion",492,492
+"493","493","051201090601","Conkey Branch-Salt Fork","0512010906","Salt Fork","05120109","Vermilion",493,493
+"494","494","051202010203","No Name Creek-Bell Creek","0512020102","Bell Creek-Buck Creek","05120201","Upper White",494,494
+"495","495","051202010204","Macedonia Creek-Buck Creek","0512020102","Bell Creek-Buck Creek","05120201","Upper White",495,495
+"496","496","051202081502","Hoffman Run-East Fork White River","0512020815","East Fork White River","05120208","Lower East Fork White",496,496
+"497","497","051202010201","Little Buck Creek-Buck Creek","0512020102","Bell Creek-Buck Creek","05120201","Upper White",497,497
+"498","498","051201050505","Headwaters Bachelor Run","0512010505","Deer Creek","05120105","Middle Wabash-Deer",498,498
+"499","499","051201050601","Little Sugar Creek-Sugar Creek","0512010506","Sugar Creek-Wabash River","05120105","Middle Wabash-Deer",499,499
+"500","500","051201050502","Peter Ditch","0512010505","Deer Creek","05120105","Middle Wabash-Deer",500,500
+"501","501","051201050503","Little Deer Creek","0512010505","Deer Creek","05120105","Middle Wabash-Deer",501,501
+"502","502","051201050504","Paint Creek","0512010505","Deer Creek","05120105","Middle Wabash-Deer",502,502
+"503","503","051201050506","Kuns Ditch-Bachelor Run","0512010505","Deer Creek","05120105","Middle Wabash-Deer",503,503
+"504","504","051201050507","Munson Ditch-Deer Creek","0512010505","Deer Creek","05120105","Middle Wabash-Deer",504,504
+"505","505","051201081203","Haw Creek","0512010812","Cecil M Harden Lake-Big Raccoon Creek","05120108","Middle Wabash-Little Vermilion",505,505
+"506","506","051201081201","Headwaters Big Raccoon Creek","0512010812","Cecil M Harden Lake-Big Raccoon Creek","05120108","Middle Wabash-Little Vermilion",506,506
+"507","507","051201081202","Town of New Ross-Big Raccoon Creek","0512010812","Cecil M Harden Lake-Big Raccoon Creek","05120108","Middle Wabash-Little Vermilion",507,507
+"508","508","051201080902","Prairie Creek","0512010809","Coal Creek","05120108","Middle Wabash-Little Vermilion",508,508
+"509","509","051201081403","Cox Number One Ditch-Big Raccoon Creek","0512010814","Flo Run-Big Racoon Creek","05120108","Middle Wabash-Little Vermilion",509,509
+"510","510","051201081501","Cat Creek-Leatherwood Creek","0512010815","Big Raccoon Creek","05120108","Middle Wabash-Little Vermilion",510,510
+"511","511","051201080802","Jordan Creek","0512010808","Jordan Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",511,511
+"512","512","051201080803","Collett Pond-Wabash River","0512010808","Jordan Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",512,512
+"513","513","051201080901","Graham Creek","0512010809","Coal Creek","05120108","Middle Wabash-Little Vermilion",513,513
+"514","514","051201081104","Town of Newport-Little Vermilion River","0512010811","Little Vermilion River","05120108","Middle Wabash-Little Vermilion",514,514
+"515","515","051202010603","Dixon Creek-Cicero Creek","0512020106","Cicero Creek","05120201","Upper White",515,515
+"516","516","051202090604","Sugar Creek-Patoka River","0512020906","Stone Coe Creek-Patoka River","05120209","Patoka",516,516
+"517","517","051202090605","Flat Creek-Patoka River","0512020906","Stone Coe Creek-Patoka River","05120209","Patoka",517,517
+"518","518","051202090701","Houchin Ditch-South Fork Patoka River","0512020907","South Fork Patoka River","05120209","Patoka",518,518
+"519","519","051201081207","Byrd Branch-Big Raccoon Creek","0512010812","Cecil M Harden Lake-Big Raccoon Creek","05120108","Middle Wabash-Little Vermilion",519,519
+"520","520","051201081301","South Fork Little Raccoon Creek","0512010813","Little Raccoon Creek","05120108","Middle Wabash-Little Vermilion",520,520
+"521","521","051201081302","Demeree Creek-Little Raccoon Creek","0512010813","Little Raccoon Creek","05120108","Middle Wabash-Little Vermilion",521,521
+"522","522","051201081208","Mansfield Reservoir-Big Raccoon River","0512010812","Cecil M Harden Lake-Big Raccoon Creek","05120108","Middle Wabash-Little Vermilion",522,522
+"523","523","051201030101","Little Mississinewa River","0512010301","Headwaters Mississinewa River","05120103","Mississinewa",523,523
+"524","524","051201030102","Gray Branch-Mississinewa River","0512010301","Headwaters Mississinewa River","05120103","Mississinewa",524,524
+"525","525","051202070401","Headwaters Vernon Fork Muscatatuck River","0512020704","Brush Creek-Vernon Fork Muscatatuck River","05120207","Muscatatuck",525,525
+"526","526","051201081204","Cornstalk Creek","0512010812","Cecil M Harden Lake-Big Raccoon Creek","05120108","Middle Wabash-Little Vermilion",526,526
+"527","527","051201081205","North Ramp Creek","0512010812","Cecil M Harden Lake-Big Raccoon Creek","05120108","Middle Wabash-Little Vermilion",527,527
+"528","528","051201081206","Little Racoon Creek-Big Raccoon Creek","0512010812","Cecil M Harden Lake-Big Raccoon Creek","05120108","Middle Wabash-Little Vermilion",528,528
+"529","529","051202090805","Indian Creek-Patoka River","0512020908","Patoka River","05120209","Patoka",529,529
+"530","530","051201050202","Little Rock Creek","0512010502","Rock Creek-Wabash River","05120105","Middle Wabash-Deer",530,530
+"531","531","051201050203","Widow Creek-Rock Creek","0512010502","Rock Creek-Wabash River","05120105","Middle Wabash-Deer",531,531
+"532","532","051202090806","Trippet Ditch-Patoka River","0512020908","Patoka River","05120209","Patoka",532,532
+"533","533","051202090807","Hull Ditch-Patoka River","0512020908","Patoka River","05120209","Patoka",533,533
+"534","534","051202090802","Robinson Creek-Patoka River","0512020908","Patoka River","05120209","Patoka",534,534
+"535","535","051202090804","Yellow Creek-Patoka River","0512020908","Patoka River","05120209","Patoka",535,535
+"536","536","051201050405","Russell Ditch-Deer Creek","0512010504","South Fork Deer Creek","05120105","Middle Wabash-Deer",536,536
+"537","537","051201081401","Rocky Fork Creek","0512010814","Flo Run-Big Racoon Creek","05120108","Middle Wabash-Little Vermilion",537,537
+"538","538","051201081402","Strange Branch-Big Raccoon Creek","0512010814","Flo Run-Big Racoon Creek","05120108","Middle Wabash-Little Vermilion",538,538
+"539","539","051201050403","Matthew Anaker Ditch-South fork Deer Creek","0512010504","South Fork Deer Creek","05120105","Middle Wabash-Deer",539,539
+"540","540","051201050404","Manson Kingery Ditch-South Fork deer Creek","0512010504","South Fork Deer Creek","05120105","Middle Wabash-Deer",540,540
+"541","541","051201050303","Pleasant Run-Wabash River","0512010503","Rattlesnake Creek-Wabash River","05120105","Middle Wabash-Deer",541,541
+"542","542","051201050401","Copper Creek-Deer Creek","0512010504","South Fork Deer Creek","05120105","Middle Wabash-Deer",542,542
+"543","543","051201050402","Wise Ditch-Deer Creek","0512010504","South Fork Deer Creek","05120105","Middle Wabash-Deer",543,543
+"544","544","051201050602","Bowen Ditch-Wabash River","0512010506","Sugar Creek-Wabash River","05120105","Middle Wabash-Deer",544,544
+"545","545","051201050508","Robinson Branch-Deer Creek","0512010505","Deer Creek","05120105","Middle Wabash-Deer",545,545
+"546","546","051201081604","Buck Creek-Little Raccoon Creek","0512010816","Mill Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",546,546
+"547","547","051201090701","Upper Jordan Creek","0512010907","Jordan Creek-Middle Branch","05120109","Vermilion",547,547
+"548","548","051201081605","Town of Montezuma-Wabash River","0512010816","Mill Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",548,548
+"549","549","051201090702","Little Creek","0512010907","Jordan Creek-Middle Branch","05120109","Vermilion",549,549
+"550","550","051201081606","Norton Creek","0512010816","Mill Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",550,550
+"551","551","051201081607","Feather Creek-Wabash River","0512010816","Mill Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",551,551
+"552","552","051202010701","Dyers Creek-White River","0512020107","Stony Creek-White River","05120201","Upper White",552,552
+"553","553","051202010702","Headwaters Stony Creek","0512020107","Stony Creek-White River","05120201","Upper White",553,553
+"554","554","051202010608","Little Cicero Creek","0512020106","Cicero Creek","05120201","Upper White",554,554
+"555","555","051202010609","Hinkle Creek","0512020106","Cicero Creek","05120201","Upper White",555,555
+"556","556","051202010610","Morse Reservoir-Cicero Creek","0512020106","Cicero Creek","05120201","Upper White",556,556
+"557","557","051202010606","Weasel Creek-Cicero Creek","0512020106","Cicero Creek","05120201","Upper White",557,557
+"558","558","051202010604","Buck Creek-Cicero Creek","0512020106","Cicero Creek","05120201","Upper White",558,558
+"559","559","051202010607","Teter Branch-Little Cicero Creek","0512020106","Cicero Creek","05120201","Upper White",559,559
+"560","560","051202010803","Deer Creek-Fall Creek","0512020108","Geist Reservoir-Fall Creek","05120201","Upper White",560,560
+"561","561","051202010605","Tobin Ditch-Cicero Creek","0512020106","Cicero Creek","05120201","Upper White",561,561
+"562","562","051201010102","Stoney Creek-Wabash River","0512010101","Headwaters Wabash River","05120101","Upper Wabash",562,562
+"563","563","051201010103","Toti Creek-Wabash River","0512010101","Headwaters Wabash River","05120101","Upper Wabash",563,563
+"564","564","051202010804","Prairie Creek-Fall Creek","0512020108","Geist Reservoir-Fall Creek","05120201","Upper White",564,564
+"565","565","051201010401","Wilson Creek-Limberlost Creek","0512010104","Loblolly Creek","05120101","Upper Wabash",565,565
+"566","566","051201010501","Hickory Branch-Wabash River","0512010105","Brewster Ditch-Wabash River","05120101","Upper Wabash",566,566
+"567","567","051202010801","Honey Creek-Fall Creek","0512020108","Geist Reservoir-Fall Creek","05120201","Upper White",567,567
+"568","568","051202010802","Sly Fork","0512020108","Geist Reservoir-Fall Creek","05120201","Upper White",568,568
+"569","569","051202010703","William Lock Ditch-Stony Creek","0512020107","Stony Creek-White River","05120201","Upper White",569,569
+"570","570","051202010704","William Lehr Ditch-Stony Creek","0512020107","Stony Creek-White River","05120201","Upper White",570,570
+"571","571","051202011102","Mounts Run","0512020111","Eagle Creek","05120201","Upper White",571,571
+"572","572","051201081303","Cumberland Creek-Little Raccoon Creek","0512010813","Little Raccoon Creek","05120108","Middle Wabash-Little Vermilion",572,572
+"573","573","051201081304","Leatherwood Branch-Little Raccoon Creek","0512010813","Little Raccoon Creek","05120108","Middle Wabash-Little Vermilion",573,573
+"574","574","051201081305","Sunderland Branch-Little Raccoon Creek","0512010813","Little Raccoon Creek","05120108","Middle Wabash-Little Vermilion",574,574
+"575","575","051202011006","Howland Ditch-White River","0512020110","Crooked Creek-White River","05120201","Upper White",575,575
+"576","576","051202011101","Dixon Branch-Eagle Creek","0512020111","Eagle Creek","05120201","Upper White",576,576
+"577","577","051201081601","Jim Branch-Mill Creek","0512010816","Mill Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",577,577
+"578","578","051201081603","Shell Lake-Wabash River","0512010816","Mill Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",578,578
+"579","579","051202011001","Cool Creek","0512020110","Crooked Creek-White River","05120201","Upper White",579,579
+"580","580","051202011002","Vestal Ditch-White River","0512020110","Crooked Creek-White River","05120201","Upper White",580,580
+"581","581","051202011003","Carmel Creek-White River","0512020110","Crooked Creek-White River","05120201","Upper White",581,581
+"582","582","051202011004","Williams Creek","0512020110","Crooked Creek-White River","05120201","Upper White",582,582
+"583","583","051202011005","Delaware Creek-Crooked Creek","0512020110","Crooked Creek-White River","05120201","Upper White",583,583
+"584","584","051201081602","Dry Branch-Wabash River","0512010816","Mill Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",584,584
+"585","585","051201081502","Rocky Run-Leatherwood Creek","0512010815","Big Raccoon Creek","05120108","Middle Wabash-Little Vermilion",585,585
+"586","586","051201050301","Headwaters Rattlesnake Creek","0512010503","Rattlesnake Creek-Wabash River","05120105","Middle Wabash-Deer",586,586
+"587","587","051201081503","Rock Run-Big Raccoon Creek","0512010815","Big Raccoon Creek","05120108","Middle Wabash-Little Vermilion",587,587
+"588","588","051201081504","Town of Mecca-Big Raccoon Creek","0512010815","Big Raccoon Creek","05120108","Middle Wabash-Little Vermilion",588,588
+"589","589","051201100103","Mud Creek","0512011001","Browns Wonder Creek-Sugar Creek","05120110","Sugar",589,589
+"590","590","051201100101","Mallott Ditch-Sugar Creek","0512011001","Browns Wonder Creek-Sugar Creek","05120110","Sugar",590,590
+"591","591","051201100105","Barnes Ditch-Sugar Creek","0512011001","Browns Wonder Creek-Sugar Creek","05120110","Sugar",591,591
+"592","592","051202040303","Andis Ditch-Brandywine Creek","0512020403","Brandywine Creek","05120204","Driftwood",592,592
+"593","593","051202040304","Swamp Creek-Brandywine Creek","0512020403","Brandywine Creek","05120204","Driftwood",593,593
+"594","594","051202040302","Richey Ditch-Brandywine Creek","0512020403","Brandywine Creek","05120204","Driftwood",594,594
+"595","595","051202040504","Doe Creek-Buck Creek","0512020405","Buck Creek","05120204","Driftwood",595,595
+"596","596","051202040602","Hurricane Creek","0512020406","Youngs Creek","05120204","Driftwood",596,596
+"597","597","051202040603","Canary Ditch-Youngs Creek","0512020406","Youngs Creek","05120204","Driftwood",597,597
+"598","598","051202040503","West Little Sugar Creek","0512020405","Buck Creek","05120204","Driftwood",598,598
+"599","599","051202040601","Grassy Creek-Youngs Creek","0512020406","Youngs Creek","05120204","Driftwood",599,599
+"600","600","051202040604","Amity Ditch-Youngs Creek","0512020406","Youngs Creek","05120204","Driftwood",600,600
+"601","601","051202010807","McFadden Ditch-Lick Creek","0512020108","Geist Reservoir-Fall Creek","05120201","Upper White",601,601
+"602","602","051202010808","Flatfork Creek-Fall Creek","0512020108","Geist Reservoir-Fall Creek","05120201","Upper White",602,602
+"603","603","051202010809","Thorpe Creek-Geist Reservoir","0512020108","Geist Reservoir-Fall Creek","05120201","Upper White",603,603
+"604","604","051202010805","Headwaters Lick Creek","0512020108","Geist Reservoir-Fall Creek","05120201","Upper White",604,604
+"605","605","051202010806","Foster Branch","0512020108","Geist Reservoir-Fall Creek","05120201","Upper White",605,605
+"606","606","051202010901","Headwaters Mud Creek","0512020109","Fall Creek","05120201","Upper White",606,606
+"607","607","051202010902","Indian Lake-Indian Creek","0512020109","Fall Creek","05120201","Upper White",607,607
+"608","608","051202010903","Sand Creek-Mud Creek","0512020109","Fall Creek","05120201","Upper White",608,608
+"609","609","051202010904","Devon Creek-Fall Creek","0512020109","Fall Creek","05120201","Upper White",609,609
+"610","610","051202050104","Wikoff Ditch-Flatrock River","0512020501","Shankatank Creek-Flatrock River","05120205","Flatrock-Haw",610,610
+"611","611","051202050201","Headwaters Little Flatrock River","0512020502","Little Flatrock River","05120205","Flatrock-Haw",611,611
+"612","612","051202011110","Ristow Branch-Eagle Creek","0512020111","Eagle Creek","05120201","Upper White",612,612
+"613","613","051202040803","Nameless Creek","0512020408","Big Blue River","05120204","Driftwood",613,613
+"614","614","051202040805","Foreman Branch-Big Blue River","0512020408","Big Blue River","05120204","Driftwood",614,614
+"615","615","051202011105","Jackson Run-Eagle Creek","0512020111","Eagle Creek","05120201","Upper White",615,615
+"616","616","051202011106","Fishback Creek","0512020111","Eagle Creek","05120201","Upper White",616,616
+"617","617","051202011107","Irishman Run-Eagle Creek","0512020111","Eagle Creek","05120201","Upper White",617,617
+"618","618","051202011103","Finley Creek-Eagle Creek","0512020111","Eagle Creek","05120201","Upper White",618,618
+"619","619","051202011104","Lion Creek-Little Eagle Creek","0512020111","Eagle Creek","05120201","Upper White",619,619
+"620","620","051202011108","Eagle Creek Reservoir-Eagle Creek","0512020111","Eagle Creek","05120201","Upper White",620,620
+"621","621","051202011109","Little Eagle Creek","0512020111","Eagle Creek","05120201","Upper White",621,621
+"622","622","051202050103","Shawnee Creek","0512020501","Shankatank Creek-Flatrock River","05120205","Flatrock-Haw",622,622
+"623","623","051202011305","West Fork White Lick Creek","0512020113","White Lick Creek","05120201","Upper White",623,623
+"624","624","051202011306","Clarks Creek-White Lick Creek","0512020113","White Lick Creek","05120201","Upper White",624,624
+"625","625","051202011303","Abner Creek-White Lick Creek","0512020113","White Lick Creek","05120201","Upper White",625,625
+"626","626","051202011304","Headwaters West Fork White Lick Creek","0512020113","White Lick Creek","05120201","Upper White",626,626
+"627","627","051202040804","Prairie Branch-Big Blue River","0512020408","Big Blue River","05120204","Driftwood",627,627
+"628","628","051202011301","Hughes Branch-West Fork White Lick Creek","0512020113","White Lick Creek","05120201","Upper White",628,628
+"629","629","051202011302","Wiley Thompson Ditch-White Lick Creek","0512020113","White Lick Creek","05120201","Upper White",629,629
+"630","630","051202011203","Lick Creek","0512020112","Pleasant Run-White River","05120201","Upper White",630,630
+"631","631","051202011204","Little Buck Creek","0512020112","Pleasant Run-White River","05120201","Upper White",631,631
+"632","632","051202011205","Dollar Hide Creek-White River","0512020112","Pleasant Run-White River","05120201","Upper White",632,632
+"633","633","051202011206","Pleasant Run Creek","0512020112","Pleasant Run-White River","05120201","Upper White",633,633
+"634","634","051201040503","Beargrass Creek","0512010405","Paw Paw Creek-Eel River","05120104","Eel",634,634
+"635","635","051201040504","Bolley Ditch","0512010405","Paw Paw Creek-Eel River","05120104","Eel",635,635
+"636","636","051202040401","Pee Dee Ditch-Sugar Creek","0512020404","Little Sugar Creek-Sugar Creek","05120204","Driftwood",636,636
+"637","637","051202040403","Barrett Ditch-Sugar Creek","0512020404","Little Sugar Creek-Sugar Creek","05120204","Driftwood",637,637
+"638","638","051202040404","Wilson Ditch-Little Sugar Creek","0512020404","Little Sugar Creek-Sugar Creek","05120204","Driftwood",638,638
+"639","639","051202040405","Boyd Ditch-Sugar Creek","0512020404","Little Sugar Creek-Sugar Creek","05120204","Driftwood",639,639
+"640","640","051202040501","Grassy Creek","0512020405","Buck Creek","05120204","Driftwood",640,640
+"641","641","051202040502","Headwaters Buck Creek","0512020405","Buck Creek","05120204","Driftwood",641,641
+"642","642","051202040301","Willow Branch-Brandywine Creek","0512020403","Brandywine Creek","05120204","Driftwood",642,642
+"643","643","051202040402","Marsh and Trees Ditch-Sugar Creek","0512020404","Little Sugar Creek-Sugar Creek","05120204","Driftwood",643,643
+"644","644","051201050101","Headwaters Crooked Creek","0512010501","Crooked Creek-Wabash River","05120105","Middle Wabash-Deer",644,644
+"645","645","051201050102","Miller Ditch-Crooked Creek","0512010501","Crooked Creek-Wabash River","05120105","Middle Wabash-Deer",645,645
+"646","646","051201050103","Galbreath Ditch-Crooked Creek","0512010501","Crooked Creek-Wabash River","05120105","Middle Wabash-Deer",646,646
+"647","647","051202020106","Stout Creek-Beanblossom Creek","0512020201","Beanblossom Creek","05120202","Lower White",647,647
+"648","648","051202090405","Ell Creek","0512020904","Altar Ceek-Patoka River","05120209","Patoka",648,648
+"649","649","051202090406","Crooked Creek-Patoka River","0512020904","Altar Ceek-Patoka River","05120209","Patoka",649,649
+"650","650","051201040703","Twelve Mile Creek","0512010407","Eel River","05120104","Eel",650,650
+"651","651","051202090702","Honey Creek-South Fork Patoka River","0512020907","South Fork Patoka River","05120209","Patoka",651,651
+"652","652","051202040701","Snail Creek","0512020407","Sugar Creek","05120204","Driftwood",652,652
+"653","653","051201040704","Town of Hoover-Eel River","0512010407","Eel River","05120104","Eel",653,653
+"654","654","051201040705","Mud Branch-Eel River","0512010407","Eel River","05120104","Eel",654,654
+"655","655","051202040801","Headwaters Six Mile Creek","0512020408","Big Blue River","05120204","Driftwood",655,655
+"656","656","051201040701","East Branch Twelve Mile Creek","0512010407","Eel River","05120104","Eel",656,656
+"657","657","051202040802","Anthony Creek-Six Mile Creek","0512020408","Big Blue River","05120204","Driftwood",657,657
+"658","658","051201050205","Ryan Appleton Ditch-Rock Creek","0512010502","Rock Creek-Wabash River","05120105","Middle Wabash-Deer",658,658
+"659","659","051201050206","Keeps Creek-Wabash River","0512010502","Rock Creek-Wabash River","05120105","Middle Wabash-Deer",659,659
+"660","660","051201100607","Welchel Branch-Sugar Creek","0512011006","Sugar Creek","05120110","Sugar",660,660
+"661","661","051202040702","Little Sugar Creek","0512020407","Sugar Creek","05120204","Driftwood",661,661
+"662","662","051202040703","Town of Needham-Sugar Creek","0512020407","Sugar Creek","05120204","Driftwood",662,662
+"663","663","051202040704","Gibson Ditch-Sugar Creek","0512020407","Sugar Creek","05120204","Driftwood",663,663
+"664","664","051202050102","Applebutter Creek-Flatrock River","0512020501","Shankatank Creek-Flatrock River","05120205","Flatrock-Haw",664,664
+"665","665","051202040705","Herriotts Creek-Sugar Creek","0512020407","Sugar Creek","05120204","Driftwood",665,665
+"666","666","051201050204","Burnetts Creek","0512010502","Rock Creek-Wabash River","05120105","Middle Wabash-Deer",666,666
+"667","667","051202040902","Nineveh Creek","0512020409","Driftwood River","05120204","Driftwood",667,667
+"668","668","051201100608","Rush Creek","0512011006","Sugar Creek","05120110","Sugar",668,668
+"669","669","051201100609","Roaring Creek-Sugar Creek","0512011006","Sugar Creek","05120110","Sugar",669,669
+"670","670","051202040903","Lick Creek-Driftwood River","0512020409","Driftwood River","05120204","Driftwood",670,670
+"671","671","051202040904","Catherine Creek-Driftwood River","0512020409","Driftwood River","05120204","Driftwood",671,671
+"672","672","051202050101","Mud Run-Flatrock River","0512020501","Shankatank Creek-Flatrock River","05120205","Flatrock-Haw",672,672
+"673","673","051202050402","Turkey Creek-Flatrock River","0512020504","Mill Creek-Flatrock River","05120205","Flatrock-Haw",673,673
+"674","674","051202090803","Lost Creek","0512020908","Patoka River","05120209","Patoka",674,674
+"675","675","051202050404","Bob Creek-Flatrock River","0512020504","Mill Creek-Flatrock River","05120205","Flatrock-Haw",675,675
+"676","676","051201110401","Headwaters Otter Creek","0512011104","Otter Creek","05120111","Middle Wabash-Busseron",676,676
+"677","677","051201110402","North Branch Otter Creek","0512011104","Otter Creek","05120111","Middle Wabash-Busseron",677,677
+"678","678","051201050501","Henry Gilbert Ditch-Little Deer Creek","0512010505","Deer Creek","05120105","Middle Wabash-Deer",678,678
+"679","679","051202050403","Harrigan Branch-Flatrock River","0512020504","Mill Creek-Flatrock River","05120205","Flatrock-Haw",679,679
+"680","680","051202050405","Mill Creek-Flatrock River","0512020504","Mill Creek-Flatrock River","05120205","Flatrock-Haw",680,680
+"681","681","051202040807","Shaw Ditch-Big Blue River","0512020408","Big Blue River","05120204","Driftwood",681,681
+"682","682","051202040901","Prince Creek-Mud Creek","0512020409","Driftwood River","05120204","Driftwood",682,682
+"683","683","051202050501","Headwaters Lewis Creek","0512020505","Lewis Creek","05120205","Flatrock-Haw",683,683
+"684","684","051202050303","Little Conns Creek-Conns Creek","0512020503","Conns Creek","05120205","Flatrock-Haw",684,684
+"685","685","051201040603","Washonis Creek-Eel River","0512010406","Weesau Creek-Eel River","05120104","Eel",685,685
+"686","686","051201080707","Rose Hill Cemetery-East Fork Coal Creek","0512010807","East Fork Coal Creek","05120108","Middle Wabash-Little Vermilion",686,686
+"687","687","051201080708","Dry Run-Coal Creek","0512010807","East Fork Coal Creek","05120108","Middle Wabash-Little Vermilion",687,687
+"688","688","051202060102","Middle Branch Clifty Creek","0512020601","Clifty Creek","05120206","Upper East Fork White",688,688
+"689","689","051201110403","Little Creek-North Branch Otter Creek","0512011104","Otter Creek","05120111","Middle Wabash-Busseron",689,689
+"690","690","051202050202","Lick Creek-Little Flatrock River","0512020502","Little Flatrock River","05120205","Flatrock-Haw",690,690
+"691","691","051202090503","Little Flat Creek-Flat Creek","0512020905","Flat Creek","05120209","Patoka",691,691
+"692","692","051202090601","Cup Creek","0512020906","Stone Coe Creek-Patoka River","05120209","Patoka",692,692
+"693","693","051202090602","Rock Creek-Patoka River","0512020906","Stone Coe Creek-Patoka River","05120209","Patoka",693,693
+"694","694","051202050301","Mud Creek","0512020503","Conns Creek","05120205","Flatrock-Haw",694,694
+"695","695","051202050302","Mud Creek-Conns Creek","0512020503","Conns Creek","05120205","Flatrock-Haw",695,695
+"696","696","051201040601","Flowers Creek-Eel River","0512010406","Weesau Creek-Eel River","05120104","Eel",696,696
+"697","697","051201040602","Little Weesau Creek-Weesau Creek","0512010406","Weesau Creek-Eel River","05120104","Eel",697,697
+"698","698","051202050606","City of Columbus-Flatrock River","0512020506","Flatrock River","05120205","Flatrock-Haw",698,698
+"699","699","051202060101","North Branch Clifty Creek","0512020601","Clifty Creek","05120206","Upper East Fork White",699,699
+"700","700","051202011201","Pogues Run-White River","0512020112","Pleasant Run-White River","05120201","Upper White",700,700
+"701","701","051202011202","Bean Creek-Pleasant Run","0512020112","Pleasant Run-White River","05120201","Upper White",701,701
+"702","702","051202090502","Bone Creek-Flat Creek","0512020905","Flat Creek","05120209","Patoka",702,702
+"703","703","051201040508","Oren Ditch-Paw Paw Creek","0512010405","Paw Paw Creek-Eel River","05120104","Eel",703,703
+"704","704","051201040509","Town of Roann-Eel River","0512010405","Paw Paw Creek-Eel River","05120104","Eel",704,704
+"705","705","051201040505","Squirrel Creek","0512010405","Paw Paw Creek-Eel River","05120104","Eel",705,705
+"706","706","051201040506","Sharp Ditch-Paw Paw Creek","0512010405","Paw Paw Creek-Eel River","05120104","Eel",706,706
+"707","707","051201040507","Bachelor Creek","0512010405","Paw Paw Creek-Eel River","05120104","Eel",707,707
+"708","708","051202090501","Headwaters Flat Creek","0512020905","Flat Creek","05120209","Patoka",708,708
+"709","709","051201060701","Headwaters Mill Creek","0512010607","Mill Creek","05120106","Tippecanoe",709,709
+"710","710","051201060702","Reed Olmstead Ditch-Mill Creek","0512010607","Mill Creek","05120106","Tippecanoe",710,710
+"711","711","051201060703","Little Mill Creek","0512010607","Mill Creek","05120106","Tippecanoe",711,711
+"712","712","051201060704","Wilson Ditch-Mill Creek","0512010607","Mill Creek","05120106","Tippecanoe",712,712
+"713","713","051202060205","Opossum Creek-East Fork White River","0512020602","Little Sand Creek-East Fork White River","05120206","Upper East Fork White",713,713
+"714","714","051202060106","Duck Creek","0512020601","Clifty Creek","05120206","Upper East Fork White",714,714
+"715","715","051202060204","Cooks Creek-Little Sand Creek","0512020602","Little Sand Creek-East Fork White River","05120206","Upper East Fork White",715,715
+"716","716","051202020302","Blakeman Hollow-Richland Creek","0512020203","Plummer Creek","05120202","Lower White",716,716
+"717","717","051202060304","Lost Fork-Sand Creek","0512020603","Sand Creek","05120206","Upper East Fork White",717,717
+"718","718","051202060305","Panther Creek-Sand Creek","0512020603","Sand Creek","05120206","Upper East Fork White",718,718
+"719","719","051202020304","Beech Creek","0512020203","Plummer Creek","05120202","Lower White",719,719
+"720","720","051202020305","Dry Branch-Richland Creek","0512020203","Plummer Creek","05120202","Lower White",720,720
+"721","721","051202060302","Muddy Fork Sand Creek","0512020603","Sand Creek","05120206","Upper East Fork White",721,721
+"722","722","051202060303","Cobbs Fork","0512020603","Sand Creek","05120206","Upper East Fork White",722,722
+"723","723","051202060306","Millstone Creek-Sand Creek","0512020603","Sand Creek","05120206","Upper East Fork White",723,723
+"724","724","051202060307","Bear Creek","0512020603","Sand Creek","05120206","Upper East Fork White",724,724
+"725","725","051202060308","Wyaloosing Creek","0512020603","Sand Creek","05120206","Upper East Fork White",725,725
+"726","726","051201100204","Little Potato Creek-Lye Creek","0512011002","Lye Creek","05120110","Sugar",726,726
+"727","727","051201060601","Lake Maxinkuckee","0512010606","Bruce Lake Outlet-Tippecanoe River","05120106","Tippecanoe",727,727
+"728","728","051201110404","Sulphur Creek","0512011104","Otter Creek","05120111","Middle Wabash-Busseron",728,728
+"729","729","051201100301","Little Creek-Little Sugar Creek","0512011003","Walnut Fork Sugar Creek","05120110","Sugar",729,729
+"730","730","051201100202","Bower Creek-Lye Creek","0512011002","Lye Creek","05120110","Sugar",730,730
+"731","731","051201060406","Redinger Ditch-Tippecanoe River","0512010604","Chippewanuck Creek-Tippecanoe River","05120106","Tippecanoe",731,731
+"732","732","051201060407","Lake Sixteen-Chippewanuck Creek","0512010604","Chippewanuck Creek-Tippecanoe River","05120106","Tippecanoe",732,732
+"733","733","051201060408","Byrant Leininger Ditch-Chippenwanuck Creek","0512010604","Chippewanuck Creek-Tippecanoe River","05120106","Tippecanoe",733,733
+"734","734","051201060409","Reister Creek-Tippecanoe River","0512010604","Chippewanuck Creek-Tippecanoe River","05120106","Tippecanoe",734,734
+"735","735","051201100108","Brush Creek-Sugar Creek","0512011001","Browns Wonder Creek-Sugar Creek","05120110","Sugar",735,735
+"736","736","051201100203","Lye Creek Drain","0512011002","Lye Creek","05120110","Sugar",736,736
+"737","737","051201100106","Reagan Run","0512011001","Browns Wonder Creek-Sugar Creek","05120110","Sugar",737,737
+"738","738","051201100107","Spring Creek-Sugar Creek","0512011001","Browns Wonder Creek-Sugar Creek","05120110","Sugar",738,738
+"739","739","051202020205","Elliston Creek-White River","0512020202","Fish Creek-White River","05120202","Lower White",739,739
+"740","740","051202020206","Little Raccoon Creek-Racoon Creek","0512020202","Fish Creek-White River","05120202","Lower White",740,740
+"741","741","051201060705","Prather Ditch-Mill Creek","0512010607","Mill Creek","05120106","Tippecanoe",741,741
+"742","742","051201060801","Walsh Ditch-Grassy Creek","0512010608","Indian Creek","05120106","Tippecanoe",742,742
+"743","743","051201100401","Sanitary Ditch-Prairie Creek","0512011004","Prarie Creek-Sugar Creek","05120110","Sugar",743,743
+"744","744","051201100402","Deer Creek-Prairie Creek","0512011004","Prarie Creek-Sugar Creek","05120110","Sugar",744,744
+"745","745","051201100403","Wolf Creek","0512011004","Prarie Creek-Sugar Creek","05120110","Sugar",745,745
+"746","746","051202020202","Limestone Creek-White River","0512020202","Fish Creek-White River","05120202","Lower White",746,746
+"747","747","051202020203","Fall Creek-White River","0512020202","Fish Creek-White River","05120202","Lower White",747,747
+"748","748","051202020204","Rattlesnake Creek","0512020202","Fish Creek-White River","05120202","Lower White",748,748
+"749","749","051201060404","Little Yellow Creek-Yellow Creek","0512010604","Chippewanuck Creek-Tippecanoe River","05120106","Tippecanoe",749,749
+"750","750","051201060405","Clarence Baker Ditch-Tippecanoe River","0512010604","Chippewanuck Creek-Tippecanoe River","05120106","Tippecanoe",750,750
+"751","751","051201110303","Gin Creek-Brouilletts Creek","0512011103","Brouilletts Creek","05120111","Middle Wabash-Busseron",751,751
+"752","752","051202020201","Little Mill Creek-Mill Creek","0512020202","Fish Creek-White River","05120202","Lower White",752,752
+"753","753","051201110605","Izaak Walton Lake-Wabash River","0512011106","Coal Creek-Wabash River","05120111","Middle Wabash-Busseron",753,753
+"754","754","051201110701","Headwaters Honey Creek","0512011107","Honey Creek","05120111","Middle Wabash-Busseron",754,754
+"755","755","051201060602","House Ditch","0512010606","Bruce Lake Outlet-Tippecanoe River","05120106","Tippecanoe",755,755
+"756","756","051201060603","Slonaker Ditch-Tippecanoe River","0512010606","Bruce Lake Outlet-Tippecanoe River","05120106","Tippecanoe",756,756
+"757","757","051201060604","Bartee Ditch-Tippecanoe River","0512010606","Bruce Lake Outlet-Tippecanoe River","05120106","Tippecanoe",757,757
+"758","758","051201060605","Bruce Lake-Bruce Lake Outlet","0512010606","Bruce Lake Outlet-Tippecanoe River","05120106","Tippecanoe",758,758
+"759","759","051201060606","Dilts Anstis Ditch-Tippecanoe River","0512010606","Bruce Lake Outlet-Tippecanoe River","05120106","Tippecanoe",759,759
+"760","760","051201060607","Quigley Marsh Ditch","0512010606","Bruce Lake Outlet-Tippecanoe River","05120106","Tippecanoe",760,760
+"761","761","051201060608","Tyler Weisjahn Ditch-Tippecanoe River","0512010606","Bruce Lake Outlet-Tippecanoe River","05120106","Tippecanoe",761,761
+"762","762","051201110603","Lost Creek","0512011106","Coal Creek-Wabash River","05120111","Middle Wabash-Busseron",762,762
+"763","763","051201110604","South Salt Creek-Wabash River","0512011106","Coal Creek-Wabash River","05120111","Middle Wabash-Busseron",763,763
+"764","764","051201060303","Palestine Lake-Trimble Creek","0512010603","Trimble Creek-Tippecanoe River","05120106","Tippecanoe",764,764
+"765","765","051201060305","Danner Ditch-Tippecanoe River","0512010603","Trimble Creek-Tippecanoe River","05120106","Tippecanoe",765,765
+"766","766","051201060401","Shatto Ditch-Tippecanoe River","0512010604","Chippewanuck Creek-Tippecanoe River","05120106","Tippecanoe",766,766
+"767","767","051201060402","Outlet Creek","0512010604","Chippewanuck Creek-Tippecanoe River","05120106","Tippecanoe",767,767
+"768","768","051202060202","Brush Creek","0512020602","Little Sand Creek-East Fork White River","05120206","Upper East Fork White",768,768
+"769","769","051202060203","Denios Creek","0512020602","Little Sand Creek-East Fork White River","05120206","Upper East Fork White",769,769
+"770","770","051201110406","Waterworks Creek-Otter Creek","0512011104","Otter Creek","05120111","Middle Wabash-Busseron",770,770
+"771","771","051201060403","Rickle Ditch-Yellow Creek","0512010604","Chippewanuck Creek-Tippecanoe River","05120106","Tippecanoe",771,771
+"772","772","051202020303","Bridge Creek","0512020203","Plummer Creek","05120202","Lower White",772,772
+"773","773","051201110405","Gundy Ditch","0512011104","Otter Creek","05120111","Middle Wabash-Busseron",773,773
+"774","774","051201110601","Spring Creek","0512011106","Coal Creek-Wabash River","05120111","Middle Wabash-Busseron",774,774
+"775","775","051201060102","Ridinger Lake-Grassy Creek","0512010601","Grassy Creek-Tippecanoe River","05120106","Tippecanoe",775,775
+"776","776","051201060103","Smalley Lake-Tippecanoe River","0512010601","Grassy Creek-Tippecanoe River","05120106","Tippecanoe",776,776
+"777","777","051201060104","Big Barbee Lake-Grassy Creek","0512010601","Grassy Creek-Tippecanoe River","05120106","Tippecanoe",777,777
+"778","778","051201060201","McCarter Ditch-Deeds Creek","0512010602","Walnut Creek-Tippecanoe River","05120106","Tippecanoe",778,778
+"779","779","051201060202","Pike Lake-Deeds Creek","0512010602","Walnut Creek-Tippecanoe River","05120106","Tippecanoe",779,779
+"780","780","051201060203","Winola Lake-Eagle Creek","0512010602","Walnut Creek-Tippecanoe River","05120106","Tippecanoe",780,780
+"781","781","051201060204","Eagle Creek-Walnut Creek","0512010602","Walnut Creek-Tippecanoe River","05120106","Tippecanoe",781,781
+"782","782","051201060205","Ruple Ditch-Tippecanoe River","0512010602","Walnut Creek-Tippecanoe River","05120106","Tippecanoe",782,782
+"783","783","051201060301","Adams Ditch-Trimble Creek","0512010603","Trimble Creek-Tippecanoe River","05120106","Tippecanoe",783,783
+"784","784","051201060302","Pole Run Ditch-Tippecanoe River","0512010603","Trimble Creek-Tippecanoe River","05120106","Tippecanoe",784,784
+"785","785","051201050603","Harrison Creek-Wabash River","0512010506","Sugar Creek-Wabash River","05120105","Middle Wabash-Deer",785,785
+"786","786","051201060502","Lake Manitou-Mill Creek","0512010605","Eddy Creek-Tippecanoe River","05120106","Tippecanoe",786,786
+"787","787","051201060503","Smith Ditch-Mud Creek","0512010605","Eddy Creek-Tippecanoe River","05120106","Tippecanoe",787,787
+"788","788","051201060504","Neff Ditch-Mud Creek","0512010605","Eddy Creek-Tippecanoe River","05120106","Tippecanoe",788,788
+"789","789","051202060301","City of Greensburg-Sand Creek","0512020603","Sand Creek","05120206","Upper East Fork White",789,789
+"790","790","051201060101","Cedar Lake Branch-Elder Ditch","0512010601","Grassy Creek-Tippecanoe River","05120106","Tippecanoe",790,790
+"791","791","051201060505","Grube Ditch-Mud Creek","0512010605","Eddy Creek-Tippecanoe River","05120106","Tippecanoe",791,791
+"792","792","051201060506","Collins Ditch","0512010605","Eddy Creek-Tippecanoe River","05120106","Tippecanoe",792,792
+"793","793","051201060507","Tilden Ditch-Mud Creek","0512010605","Eddy Creek-Tippecanoe River","05120106","Tippecanoe",793,793
+"794","794","051201060508","Cowan Ditch-Eddy Creek","0512010605","Eddy Creek-Tippecanoe River","05120106","Tippecanoe",794,794
+"795","795","051201060509","Zink Lake-Tippecanoe River","0512010605","Eddy Creek-Tippecanoe River","05120106","Tippecanoe",795,795
+"796","796","051202060107","Otter Creek-Clifty Creek","0512020601","Clifty Creek","05120206","Upper East Fork White",796,796
+"797","797","051201060501","Robbin Taylor Ditch","0512010605","Eddy Creek-Tippecanoe River","05120106","Tippecanoe",797,797
+"798","798","051202060201","Headwaters Little Sand Creek","0512020602","Little Sand Creek-East Fork White River","05120206","Upper East Fork White",798,798
+"799","799","051202060105","Fall Fork","0512020601","Clifty Creek","05120206","Upper East Fork White",799,799
+"800","800","051202020207","Lick Creek-Raccoon Creek","0512020202","Fish Creek-White River","05120202","Lower White",800,800
+"801","801","051202020208","East Fork Fish Creek","0512020202","Fish Creek-White River","05120202","Lower White",801,801
+"802","802","051202020209","Sand Lick Creek-Fish Creek","0512020202","Fish Creek-White River","05120202","Lower White",802,802
+"803","803","051202020210","Mills Creek-White River","0512020202","Fish Creek-White River","05120202","Lower White",803,803
+"804","804","051202020211","Goose Creek-White River","0512020202","Fish Creek-White River","05120202","Lower White",804,804
+"805","805","051202020301","Little Richland Creek-Richland Creek","0512020203","Plummer Creek","05120202","Lower White",805,805
+"806","806","051202060103","Pond Branch-Clifty Creek","0512020601","Clifty Creek","05120206","Upper East Fork White",806,806
+"807","807","051202060104","Town of Hartsville-Clifty Creek","0512020601","Clifty Creek","05120206","Upper East Fork White",807,807
+"808","808","051202020107","Indian Creek-Beanblossom Creek","0512020201","Beanblossom Creek","05120202","Lower White",808,808
+"809","809","051202020108","Jacks Defeat Creek-Beanblossom Creek","0512020201","Beanblossom Creek","05120202","Lower White",809,809
+"810","810","051202020306","Clifty Branch","0512020203","Plummer Creek","05120202","Lower White",810,810
+"811","811","051201061101","Kesler Ditch-McKillip Ditch","0512010611","Big Monon Creek","05120106","Tippecanoe",811,811
+"812","812","051201061102","Hill Ditch","0512010611","Big Monon Creek","05120106","Tippecanoe",812,812
+"813","813","051201060803","Fredericks Ditch-Little Indian Creek","0512010608","Indian Creek","05120106","Tippecanoe",813,813
+"814","814","051201060804","Little Indian Creek","0512010608","Indian Creek","05120106","Tippecanoe",814,814
+"815","815","051201061103","McKillip Ditch","0512010611","Big Monon Creek","05120106","Tippecanoe",815,815
+"816","816","051201061104","Brown Ditch-Big Monon Creek","0512010611","Big Monon Creek","05120106","Tippecanoe",816,816
+"817","817","051201061201","Weltzin Ditch-Tippecanoe River","0512010612","Honey Creek-Tippecanoe River","05120106","Tippecanoe",817,817
+"818","818","051201061202","Harp Ditch-Tippecanoe River","0512010612","Honey Creek-Tippecanoe River","05120106","Tippecanoe",818,818
+"819","819","051201061203","Hollingsworth Ditch-Hoagland Ditch","0512010612","Honey Creek-Tippecanoe River","05120106","Tippecanoe",819,819
+"820","820","051201061006","Mosley Ditch","0512010610","Big Monon Ditch","05120106","Tippecanoe",820,820
+"821","821","051201060802","Headwaters Indian Creek","0512010608","Indian Creek","05120106","Tippecanoe",821,821
+"822","822","051201060805","Town of Thornhope-Indian Creek","0512010608","Indian Creek","05120106","Tippecanoe",822,822
+"823","823","051201060901","Agnew Ditch","0512010609","Dickey Creek-Tippecanoe River","05120106","Tippecanoe",823,823
+"824","824","051201060902","Mud Creek","0512010609","Dickey Creek-Tippecanoe River","05120106","Tippecanoe",824,824
+"825","825","051201060903","Budd Fisher Ditch-Tippecanoe River","0512010609","Dickey Creek-Tippecanoe River","05120106","Tippecanoe",825,825
+"826","826","051201060904","Stout Ditch-Tippecanoe River","0512010609","Dickey Creek-Tippecanoe River","05120106","Tippecanoe",826,826
+"827","827","051201061001","Scholtz Ditch","0512010610","Big Monon Ditch","05120106","Tippecanoe",827,827
+"828","828","051201061002","Headwaters Big Monon Ditch","0512010610","Big Monon Ditch","05120106","Tippecanoe",828,828
+"829","829","051201061003","Thompson Ditch-Big Monon Ditch","0512010610","Big Monon Ditch","05120106","Tippecanoe",829,829
+"830","830","051201061004","Lincoln Ditch-Big Monon Ditch","0512010610","Big Monon Ditch","05120106","Tippecanoe",830,830
+"831","831","051202060309","Fish Creek-Sand Creek","0512020603","Sand Creek","05120206","Upper East Fork White",831,831
+"832","832","051202020102","Bear Creek-Beanblossom Creek","0512020201","Beanblossom Creek","05120202","Lower White",832,832
+"833","833","051202011403","Crooked Creek","0512020114","Clear Creek-White River","05120201","Upper White",833,833
+"834","834","051202011404","South Prong Stotts Creek","0512020114","Clear Creek-White River","05120201","Upper White",834,834
+"835","835","051202011310","Monical Branch-White Lick Creek","0512020113","White Lick Creek","05120201","Upper White",835,835
+"836","836","051201061304","Lake Freeman-Tippecanoe River","0512010613","Tippecanoe River","05120106","Tippecanoe",836,836
+"837","837","051201061305","Big Creek","0512010613","Tippecanoe River","05120106","Tippecanoe",837,837
+"838","838","051202011308","Headwaters East Fork White Lick Creek","0512020113","White Lick Creek","05120201","Upper White",838,838
+"839","839","051202011309","East Fork White Lick Creek","0512020113","White Lick Creek","05120201","Upper White",839,839
+"840","840","051202011401","Turkey Pen Creek-Honey Creek","0512020114","Clear Creek-White River","05120201","Upper White",840,840
+"841","841","051202011402","Goose Creek-White River","0512020114","Clear Creek-White River","05120201","Upper White",841,841
+"842","842","051201100302","Little Sugar Creek","0512011003","Walnut Fork Sugar Creek","05120110","Sugar",842,842
+"843","843","051201100303","Town of Linnsburg-Walnut Fork Sugar Creek","0512011003","Walnut Fork Sugar Creek","05120110","Sugar",843,843
+"844","844","051202011307","McCracken Creek","0512020113","White Lick Creek","05120201","Upper White",844,844
+"845","845","051202011405","Stotts Creek","0512020114","Clear Creek-White River","05120201","Upper White",845,845
+"846","846","051202011702","Burkhart Creek-White River","0512020117","Butler Creek-White River","05120201","Upper White",846,846
+"847","847","051202011703","Fall Creek-White River","0512020117","Butler Creek-White River","05120201","Upper White",847,847
+"848","848","051201100404","Goldsberry Creek-Sugar Creek","0512011004","Prarie Creek-Sugar Creek","05120110","Sugar",848,848
+"849","849","051201100405","Withe Creek-Sugar Creek","0512011004","Prarie Creek-Sugar Creek","05120110","Sugar",849,849
+"850","850","051201100501","Headwaters Sugar Mill Creek","0512011005","Sugar Mill Creek","05120110","Sugar",850,850
+"851","851","051201100502","Buffalo Creek-Sugar Mill Creek","0512011005","Sugar Mill Creek","05120110","Sugar",851,851
+"852","852","051202011701","Little Indian Creek","0512020117","Butler Creek-White River","05120201","Upper White",852,852
+"853","853","051202011704","Indian Creek-White River","0512020117","Butler Creek-White River","05120201","Upper White",853,853
+"854","854","051202020101","North Fork Beanblossom Creek","0512020201","Beanblossom Creek","05120202","Lower White",854,854
+"855","855","051201100406","Hazel Creek-Sugar Creek","0512011004","Prarie Creek-Sugar Creek","05120110","Sugar",855,855
+"856","856","051201100407","Town of Garfield-Sugar Creek","0512011004","Prarie Creek-Sugar Creek","05120110","Sugar",856,856
+"857","857","051201061005","Antrim Ditch","0512010610","Big Monon Ditch","05120106","Tippecanoe",857,857
+"858","858","051201061007","Stein Ditch-Big Monon Ditch","0512010610","Big Monon Ditch","05120106","Tippecanoe",858,858
+"859","859","051201061008","Big Monon Creek-Big Monon Ditch","0512010610","Big Monon Ditch","05120106","Tippecanoe",859,859
+"860","860","051201061205","Hoagland Bay-Hoagland Ditch","0512010612","Honey Creek-Tippecanoe River","05120106","Tippecanoe",860,860
+"861","861","051201100503","Panther Creek-Sugar Mill Creek","0512011005","Sugar Mill Creek","05120110","Sugar",861,861
+"862","862","051201061308","Moots Creek","0512010613","Tippecanoe River","05120106","Tippecanoe",862,862
+"863","863","051201070101","Headwaters Turkey Creek","0512010701","Kokomo Creek-Wildcat Creek","05120107","Wildcat",863,863
+"864","864","051201070102","North Creek-Mud Creek","0512010701","Kokomo Creek-Wildcat Creek","05120107","Wildcat",864,864
+"865","865","051201070103","Round Prairie Ditch-Turkey Creek","0512010701","Kokomo Creek-Wildcat Creek","05120107","Wildcat",865,865
+"866","866","051201061309","Wallys Woods Lake-Tippecanoe River","0512010613","Tippecanoe River","05120106","Tippecanoe",866,866
+"867","867","051201141003","Goose Pond Swamp","0512011410","Lick Creek-Little Wabash River","05120114","Little Wabash",867,867
+"868","868","051201150101","Coal Bank Creek","0512011501","Horse Creek","05120115","Skillet",868,868
+"869","869","051201150102","Puncheon Creek","0512011501","Horse Creek","05120115","Skillet",869,869
+"870","870","051201150103","Panther Fork-Horse Creek","0512011501","Horse Creek","05120115","Skillet",870,870
+"871","871","051201061306","Spring Creek","0512010613","Tippecanoe River","05120106","Tippecanoe",871,871
+"872","872","051201061307","Myers Ditch-Moot Creek","0512010613","Tippecanoe River","05120106","Tippecanoe",872,872
+"873","873","051202050601","Town of Geneva-Flatrock River","0512020506","Flatrock River","05120205","Flatrock-Haw",873,873
+"874","874","051202050602","Sidney Branch-Flatrock River","0512020506","Flatrock River","05120205","Flatrock-Haw",874,874
+"875","875","051202050603","Big Slough","0512020506","Flatrock River","05120205","Flatrock-Haw",875,875
+"876","876","051202050604","Headwaters Haw Creek","0512020506","Flatrock River","05120205","Flatrock-Haw",876,876
+"877","877","051202011406","East Fork Clear Creek-Clear Creek","0512020114","Clear Creek-White River","05120201","Upper White",877,877
+"878","878","051202011407","Sinking Creek-White River","0512020114","Clear Creek-White River","05120201","Upper White",878,878
+"879","879","051202011501","Sycamore Creek","0512020115","Lambs Creek-White River","05120201","Upper White",879,879
+"880","880","051202011502","Patten Lake-Lambs Creek","0512020115","Lambs Creek-White River","05120201","Upper White",880,880
+"881","881","051202011503","Highland Creek-White River","0512020115","Lambs Creek-White River","05120201","Upper White",881,881
+"882","882","051202011601","Barnes Creek-Indian Creek","0512020116","Indian Creek","05120201","Upper White",882,882
+"883","883","051202011602","Oliver Creek-Indian Creek","0512020116","Indian Creek","05120201","Upper White",883,883
+"884","884","051202011603","Sand Creek-Indian Creek","0512020116","Indian Creek","05120201","Upper White",884,884
+"885","885","051202050503","Thompson Ditch-Lewis Creek","0512020505","Lewis Creek","05120205","Flatrock-Haw",885,885
+"886","886","051202050502","Slash Creek","0512020505","Lewis Creek","05120205","Flatrock-Haw",886,886
+"887","887","051202020104","Honey Creek-Beanblossom Creek","0512020201","Beanblossom Creek","05120202","Lower White",887,887
+"888","888","051202020105","Buck Creek-Beanblossom Creek","0512020201","Beanblossom Creek","05120202","Lower White",888,888
+"889","889","051202020103","Lake Lemon-Beanblossom Creek","0512020201","Beanblossom Creek","05120202","Lower White",889,889
+"890","890","051201100603","Offield Creek","0512011006","Sugar Creek","05120110","Sugar",890,890
+"891","891","051201100604","Mill Creek-Sugar Creek","0512011006","Sugar Creek","05120110","Sugar",891,891
+"892","892","051201100605","Indian Creek","0512011006","Sugar Creek","05120110","Sugar",892,892
+"893","893","051201100606","Corner Creek-Sugar Creek","0512011006","Sugar Creek","05120110","Sugar",893,893
+"894","894","051201061206","Keans Creek","0512010612","Honey Creek-Tippecanoe River","05120106","Tippecanoe",894,894
+"895","895","051201061207","Headwaters Honey Creek","0512010612","Honey Creek-Tippecanoe River","05120106","Tippecanoe",895,895
+"896","896","051201061208","Lake Shafer-Tippecanoe River","0512010612","Honey Creek-Tippecanoe River","05120106","Tippecanoe",896,896
+"897","897","051201061301","Pike Creek-Tippecanoe River","0512010613","Tippecanoe River","05120106","Tippecanoe",897,897
+"898","898","051201061302","Bell Ditch-Big Creek","0512010613","Tippecanoe River","05120106","Tippecanoe",898,898
+"899","899","051201061303","Dieter Ditch-Big Creek","0512010613","Tippecanoe River","05120106","Tippecanoe",899,899
+"900","900","051201100601","Headwaters Black Creek","0512011006","Sugar Creek","05120110","Sugar",900,900
+"901","901","051201100602","Liberty Chapel-Black Creek","0512011006","Sugar Creek","05120110","Sugar",901,901
+"902","902","051201081001","Headwaters Little Vermillion River","0512010810","Swank Creek-Little Vermilion River","05120108","Middle Wabash-Little Vermilion",902,902
+"903","903","051201081004","Fairview Drain-Little Vermillion River","0512010810","Swank Creek-Little Vermilion River","05120108","Middle Wabash-Little Vermilion",903,903
+"904","904","051201081101","Town of Georgetown-Little Vermilion River","0512010811","Little Vermilion River","05120108","Middle Wabash-Little Vermilion",904,904
+"905","905","051201150203","Conners Branch","0512011502","Brush Creek-Skillet Fork","05120115","Skillet",905,905
+"906","906","051201150204","Dums Creek","0512011502","Brush Creek-Skillet Fork","05120115","Skillet",906,906
+"907","907","051201150201","Sutton Creek","0512011502","Brush Creek-Skillet Fork","05120115","Skillet",907,907
+"908","908","051201150202","Lost Fork","0512011502","Brush Creek-Skillet Fork","05120115","Skillet",908,908
+"909","909","051201020201","Twomile Ditch-Salamonie River","0512010202","East Creek-Salamonie River","05120102","Salamonie",909,909
+"910","910","051201020202","Beaver Creek-Salamonie River","0512010202","East Creek-Salamonie River","05120102","Salamonie",910,910
+"911","911","051201150205","Fulton Creek","0512011502","Brush Creek-Skillet Fork","05120115","Skillet",911,911
+"912","912","051201150206","Nickolson Creek","0512011502","Brush Creek-Skillet Fork","05120115","Skillet",912,912
+"913","913","051201150207","Crabapple Branch-Skillet Fork","0512011502","Brush Creek-Skillet Fork","05120115","Skillet",913,913
+"914","914","051201150208","Poplar Creek","0512011502","Brush Creek-Skillet Fork","05120115","Skillet",914,914
+"915","915","051201150209","Paintock Creek","0512011502","Brush Creek-Skillet Fork","05120115","Skillet",915,915
+"916","916","051201150210","Gum Branch-Brush Creek","0512011502","Brush Creek-Skillet Fork","05120115","Skillet",916,916
+"917","917","051201150211","Crooked Creek-Skillet Fork","0512011502","Brush Creek-Skillet Fork","05120115","Skillet",917,917
+"918","918","051201150301","Little Dry Fork","0512011503","Dry Fork-Skillet Fork","05120115","Skillet",918,918
+"919","919","051201150302","Dry Fork Drainge Ditch-Dry Fork","0512011503","Dry Fork-Skillet Fork","05120115","Skillet",919,919
+"920","920","051201150303","Fourmile Creek","0512011503","Dry Fork-Skillet Fork","05120115","Skillet",920,920
+"921","921","051201150305","Shoe Creek-Skillet Fork","0512011503","Dry Fork-Skillet Fork","05120115","Skillet",921,921
+"922","922","051201020106","Cowboy Run-Brooks Creek","0512010201","Brooks Creek-Salamonie River","05120102","Salamonie",922,922
+"923","923","051201020107","Mud Creek-Brooks Creek","0512010201","Brooks Creek-Salamonie River","05120102","Salamonie",923,923
+"924","924","051201150304","Livergood Creek-Dry Fork","0512011503","Dry Fork-Skillet Fork","05120115","Skillet",924,924
+"925","925","051201150306","Eagle Slough Drainage Ditch","0512011503","Dry Fork-Skillet Fork","05120115","Skillet",925,925
+"926","926","051201150307","Skillet Fork Lagoon-Skillet Fork","0512011503","Dry Fork-Skillet Fork","05120115","Skillet",926,926
+"927","927","051201020108","Glenn Miller Ditch-Salamonie River","0512010201","Brooks Creek-Salamonie River","05120102","Salamonie",927,927
+"928","928","051201081002","Baum Branch-Little Vermillion River","0512010810","Swank Creek-Little Vermilion River","05120108","Middle Wabash-Little Vermilion",928,928
+"929","929","051201081003","Archie Creek-Little Vermillion River","0512010810","Swank Creek-Little Vermilion River","05120108","Middle Wabash-Little Vermilion",929,929
+"930","930","051201090101","Headwaters Big Four Ditch","0512010901","Big Four Ditch","05120109","Vermilion",930,930
+"931","931","051201090102","Town of Guthrie-Big Four Ditch","0512010901","Big Four Ditch","05120109","Vermilion",931,931
+"932","932","051201090103","Wall Town Drainage Ditch","0512010901","Big Four Ditch","05120109","Vermilion",932,932
+"933","933","051201090104","Town of Perdueville-Big Four Ditch","0512010901","Big Four Ditch","05120109","Vermilion",933,933
+"934","934","051201090105","Hall Cemetery-Big Four Ditch","0512010901","Big Four Ditch","05120109","Vermilion",934,934
+"935","935","051201090106","Big Four Ditch-Middle Fork Vermillion River","0512010901","Big Four Ditch","05120109","Vermilion",935,935
+"936","936","051201090201","Town of Thomasboro-Saline Branch","0512010902","Saline Branch Drainage Ditch","05120109","Vermilion",936,936
+"937","937","051201090202","Crystal Lake Park-Saline Branch Drainage Ditch","0512010902","Saline Branch Drainage Ditch","05120109","Vermilion",937,937
+"938","938","051201090203","Saline Branch Drainage Ditch","0512010902","Saline Branch Drainage Ditch","05120109","Vermilion",938,938
+"939","939","051201090301","East Salt Fork-Upper Salt Fork Drainage Ditch","0512010903","Upper Salt Fork Drainage Ditch-Salt Fork","05120109","Vermilion",939,939
+"940","940","051201090302","Flatvillle Drainage Ditch-Upper Salt Fork Drainage Ditch","0512010903","Upper Salt Fork Drainage Ditch-Salt Fork","05120109","Vermilion",940,940
+"941","941","051201090303","Spoon River","0512010903","Upper Salt Fork Drainage Ditch-Salt Fork","05120109","Vermilion",941,941
+"942","942","051201150404","Opossum Creek","0512011504","Big Creek","05120115","Skillet",942,942
+"943","943","051201150405","Middle Creek-Big Creek","0512011504","Big Creek","05120115","Skillet",943,943
+"944","944","051201020303","Shadle Drain-Salamonie River","0512010203","Black Creek-Salamonie River","05120102","Salamonie",944,944
+"945","945","051201020304","Baker Ditch-Black Creek","0512010203","Black Creek-Salamonie River","05120102","Salamonie",945,945
+"946","946","051201150401","Rocky Branch","0512011504","Big Creek","05120115","Skillet",946,946
+"947","947","051201150402","Shelton Creek","0512011504","Big Creek","05120115","Skillet",947,947
+"948","948","051201150403","Auxier Creek","0512011504","Big Creek","05120115","Skillet",948,948
+"949","949","051201020302","Prairie Creek","0512010203","Black Creek-Salamonie River","05120102","Salamonie",949,949
+"950","950","051201020203","Stoney Creek-Salamonie River","0512010202","East Creek-Salamonie River","05120102","Salamonie",950,950
+"951","951","051201020301","Scuffle Creek-Salamonie River","0512010203","Black Creek-Salamonie River","05120102","Salamonie",951,951
+"952","952","051201030103","Jordon Creek-Mississinewa River","0512010301","Headwaters Mississinewa River","05120103","Mississinewa",952,952
+"953","953","051202050605","Outlet Haw Creek","0512020506","Flatrock River","05120205","Flatrock-Haw",953,953
+"954","954","051202080605","Brummett Creek-North Fork Salt Creek","0512020806","North Fork Salt Creek","05120208","Lower East Fork White",954,954
+"955","955","051201080607","Bear Creek-Wabash River","0512010806","Big Shawnee Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",955,955
+"956","956","051201140102","Brush Creek-Little Wabash River","0512011401","Green Creek-Little Wabash River","05120114","Little Wabash",956,956
+"957","957","051201140904","White Oak Slough-Little Wabash River","0512011409","Pond Creek-Little Wabash River","05120114","Little Wabash",957,957
+"958","958","051201090305","Township of Saint Joseph-Salt Fork","0512010903","Upper Salt Fork Drainage Ditch-Salt Fork","05120109","Vermilion",958,958
+"959","959","051201010602","Threemile Creek-Wabash River","0512010106","Sixmile Creek-Wabash River","05120101","Upper Wabash",959,959
+"960","960","051201150508","Wilson Creek-Skillet Fork","0512011505","Lost Creek-Skillet Fork","05120115","Skillet",960,960
+"961","961","051201011507","Bear Creek-Pipe Creek","0512010115","Pipe Creek","05120101","Upper Wabash",961,961
+"962","962","051201011601","Salem Ditch-Little Pipe Creek","0512010116","Little Pipe Creek-Wabash River","05120101","Upper Wabash",962,962
+"963","963","051201020406","Indian Creek-Salamonie River","0512010204","Salamonie River","05120102","Salamonie",963,963
+"964","964","051201030104","Porter Creek-Mississinewa River","0512010301","Headwaters Mississinewa River","05120103","Mississinewa",964,964
+"965","965","051201020305","Little Black Creek-Black Creek","0512010203","Black Creek-Salamonie River","05120102","Salamonie",965,965
+"966","966","051201140906","Stinking Creek-Little Wabash River","0512011409","Pond Creek-Little Wabash River","05120114","Little Wabash",966,966
+"967","967","051201020306","Morrison Ditch-Salamonie River","0512010203","Black Creek-Salamonie River","05120102","Salamonie",967,967
+"968","968","051201150504","Beaver Creek","0512011505","Lost Creek-Skillet Fork","05120115","Skillet",968,968
+"969","969","051201020103","Berger Ditch-Salamonie River","0512010201","Brooks Creek-Salamonie River","05120102","Salamonie",969,969
+"970","970","051201020403","Majencia Creek","0512010204","Salamonie River","05120102","Salamonie",970,970
+"971","971","051201020404","Rush Creek","0512010204","Salamonie River","05120102","Salamonie",971,971
+"972","972","051201020104","Sipe Ditch","0512010201","Brooks Creek-Salamonie River","05120102","Salamonie",972,972
+"973","973","051201020105","Miller Ditch-Salamonie River","0512010201","Brooks Creek-Salamonie River","05120102","Salamonie",973,973
+"974","974","051201011504","Honey Creek","0512010115","Pipe Creek","05120101","Upper Wabash",974,974
+"975","975","051201011506","Negro Creek-Pipe Creek","0512010115","Pipe Creek","05120101","Upper Wabash",975,975
+"976","976","051202010101","Owl Creek-White River","0512020101","Muncie Creek-White River","05120201","Upper White",976,976
+"977","977","051202010102","Peach Creek-White River","0512020101","Muncie Creek-White River","05120201","Upper White",977,977
+"978","978","051201140905","Big Creek","0512011409","Pond Creek-Little Wabash River","05120114","Little Wabash",978,978
+"979","979","051201150501","Boyd Creek","0512011505","Lost Creek-Skillet Fork","05120115","Skillet",979,979
+"980","980","051201150502","Wolf Creek","0512011505","Lost Creek-Skillet Fork","05120115","Skillet",980,980
+"981","981","051201020101","McLaughlin Ditch-Salamonie River","0512010201","Brooks Creek-Salamonie River","05120102","Salamonie",981,981
+"982","982","051201020401","Weasel Creek-Salamonie River","0512010204","Salamonie River","05120102","Salamonie",982,982
+"983","983","051201020102","Little Salamonie River","0512010201","Brooks Creek-Salamonie River","05120102","Salamonie",983,983
+"984","984","051201020402","Richland Creek","0512010204","Salamonie River","05120102","Salamonie",984,984
+"985","985","051201140903","Little Pond Creek","0512011409","Pond Creek-Little Wabash River","05120114","Little Wabash",985,985
+"986","986","051201150507","Limekiln Creek-Skillet Fork","0512011505","Lost Creek-Skillet Fork","05120115","Skillet",986,986
+"987","987","051201150503","Prairie Creek-Skillet Fork","0512011505","Lost Creek-Skillet Fork","05120115","Skillet",987,987
+"988","988","051201080103","Haywood Ditch-Wea Creek","0512010801","Wea Creek","05120108","Middle Wabash-Little Vermilion",988,988
+"989","989","051201080104","Elliott Ditch","0512010801","Wea Creek","05120108","Middle Wabash-Little Vermilion",989,989
+"990","990","051201080101","Romney Fraley Ditch","0512010801","Wea Creek","05120108","Middle Wabash-Little Vermilion",990,990
+"991","991","051202080103","Prow Hollow-Twin Creek","0512020801","Twin Creek-East Fork White River","05120208","Lower East Fork White",991,991
+"992","992","051201011602","Prairie Ditch-Wabash River","0512010116","Little Pipe Creek-Wabash River","05120101","Upper Wabash",992,992
+"993","993","051201011603","Lowe Ditch-Wabash River","0512010116","Little Pipe Creek-Wabash River","05120101","Upper Wabash",993,993
+"994","994","051201080102","East Branch Wea Creek","0512010801","Wea Creek","05120108","Middle Wabash-Little Vermilion",994,994
+"995","995","051202080101","Rush Creek","0512020801","Twin Creek-East Fork White River","05120208","Lower East Fork White",995,995
+"996","996","051202080102","Buffalo Creek","0512020801","Twin Creek-East Fork White River","05120208","Lower East Fork White",996,996
+"997","997","051201150505","Gowdy Creek-Lost Creek","0512011505","Lost Creek-Skillet Fork","05120115","Skillet",997,997
+"998","998","051201150506","Sevenmile Creek","0512011505","Lost Creek-Skillet Fork","05120115","Skillet",998,998
+"999","999","051201020405","Salamonie Lake-Salamonie River","0512010204","Salamonie River","05120102","Salamonie",999,999
+"1000","1000","051202010103","Eightmile Creek-White River","0512020101","Muncie Creek-White River","05120201","Upper White",1000,1000
+"1001","1001","051202010104","Cabin Creek","0512020101","Muncie Creek-White River","05120201","Upper White",1001,1001
+"1002","1002","051202010105","Sparrow Creek-White River","0512020101","Muncie Creek-White River","05120201","Upper White",1002,1002
+"1003","1003","051202010106","Little White River","0512020101","Muncie Creek-White River","05120201","Upper White",1003,1003
+"1004","1004","051202010107","Little Stoney Creek-Stoney Creek","0512020101","Muncie Creek-White River","05120201","Upper White",1004,1004
+"1005","1005","051201140907","Elliott Creek-Little Wabash River","0512011409","Pond Creek-Little Wabash River","05120114","Little Wabash",1005,1005
+"1006","1006","051201140908","Crooked Creek-Little Wabash River","0512011409","Pond Creek-Little Wabash River","05120114","Little Wabash",1006,1006
+"1007","1007","051201141001","McHenry Slough-Little Wabash River","0512011410","Lick Creek-Little Wabash River","05120114","Little Wabash",1007,1007
+"1008","1008","051201141002","Grindstone Creek-Little Wabash River","0512011410","Lick Creek-Little Wabash River","05120114","Little Wabash",1008,1008
+"1009","1009","051202080104","Greasy Creek-East Fork White River","0512020801","Twin Creek-East Fork White River","05120208","Lower East Fork White",1009,1009
+"1010","1010","051202080201","Back Creek","0512020802","Guthrie Creek","05120208","Lower East Fork White",1010,1010
+"1011","1011","051201011505","Walnut Creek-Pipe Creek","0512010115","Pipe Creek","05120101","Upper Wabash",1011,1011
+"1012","1012","051202080202","Dry Creek-Guthrie Creek","0512020802","Guthrie Creek","05120208","Lower East Fork White",1012,1012
+"1013","1013","051202030505","Lake Ditch","0512020305","Mill Creek","05120203","Eel",1013,1013
+"1014","1014","051202030506","Snake Creek-Lake Ditch","0512020305","Mill Creek","05120203","Eel",1014,1014
+"1015","1015","051201080105","Little Wea Creek","0512010801","Wea Creek","05120108","Middle Wabash-Little Vermilion",1015,1015
+"1016","1016","051201130703","Caney Creek-Big Creek","0512011307","Big Creek","05120113","Lower Wabash",1016,1016
+"1017","1017","051201130704","Lick Creek-Big Creek","0512011307","Big Creek","05120113","Lower Wabash",1017,1017
+"1018","1018","051202030502","Headwaters Mill Creek","0512020305","Mill Creek","05120203","Eel",1018,1018
+"1019","1019","051202010108","Prairie Creek Reservoir-Prairie Creek","0512020101","Muncie Creek-White River","05120201","Upper White",1019,1019
+"1020","1020","051202010109","Mud Creek-White River","0512020101","Muncie Creek-White River","05120201","Upper White",1020,1020
+"1021","1021","051202030503","Sallust Branch-Mill Creek","0512020305","Mill Creek","05120203","Eel",1021,1021
+"1022","1022","051201130503","Town of Griffin-Black River","0512011305","Black River","05120113","Lower Wabash",1022,1022
+"1023","1023","051202030501","East Fork MIll Creek","0512020305","Mill Creek","05120203","Eel",1023,1023
+"1024","1024","051202030507","Rhodes Creek","0512020305","Mill Creek","05120203","Eel",1024,1024
+"1025","1025","051201130501","Barren Creek-Higginbotham Ditch","0512011305","Black River","05120113","Lower Wabash",1025,1025
+"1026","1026","051201130705","Neu Creek","0512011307","Big Creek","05120113","Lower Wabash",1026,1026
+"1027","1027","051201130707","Little Creek","0512011307","Big Creek","05120113","Lower Wabash",1027,1027
+"1028","1028","051202080301","Sugar Creek","0512020803","Rock Lick Branch-East Fork White River","05120208","Lower East Fork White",1028,1028
+"1029","1029","051202080302","Clifty Creek-East Fork White River","0512020803","Rock Lick Branch-East Fork White River","05120208","Lower East Fork White",1029,1029
+"1030","1030","051202080303","Mill Creek","0512020803","Rock Lick Branch-East Fork White River","05120208","Lower East Fork White",1030,1030
+"1031","1031","051202080304","Rock Lick Branch-East Fork White River","0512020803","Rock Lick Branch-East Fork White River","05120208","Lower East Fork White",1031,1031
+"1032","1032","051202080401","Kiper Creek-Little Salt Creek","0512020804","South Fork Salt Creek","05120208","Lower East Fork White",1032,1032
+"1033","1033","051202080402","Little Salt Creek","0512020804","South Fork Salt Creek","05120208","Lower East Fork White",1033,1033
+"1034","1034","051202080403","Tipton Creek-South Fork Salt Creek","0512020804","South Fork Salt Creek","05120208","Lower East Fork White",1034,1034
+"1035","1035","051202080404","Negro Creek-South Fork Salt Creek","0512020804","South Fork Salt Creek","05120208","Lower East Fork White",1035,1035
+"1036","1036","051202080501","Headwaters Middle Fork Salt Creek","0512020805","Middle Fork Salt Creek","05120208","Lower East Fork White",1036,1036
+"1037","1037","051202080502","Pleasant Valley Creek-Middle Fork Salt Creek","0512020805","Middle Fork Salt Creek","05120208","Lower East Fork White",1037,1037
+"1038","1038","051202080601","Sweetwater Creek-North Fork Salt Creek","0512020806","North Fork Salt Creek","05120208","Lower East Fork White",1038,1038
+"1039","1039","051201130502","Headwaters Black River","0512011305","Black River","05120113","Lower Wabash",1039,1039
+"1040","1040","051201130709","Indian Creek-Big Creek","0512011307","Big Creek","05120113","Lower Wabash",1040,1040
+"1041","1041","051202021006","Robb Creek-White River","0512020210","White River","05120202","Lower White",1041,1041
+"1042","1042","051202021007","Claypole Pond-White River","0512020210","White River","05120202","Lower White",1042,1042
+"1043","1043","051202030404","Dry Branch-Big Walnut Creek","0512020304","Big Walnut Creek","05120203","Eel",1043,1043
+"1044","1044","051202030405","Snake Creek-Big Walnut Creek","0512020304","Big Walnut Creek","05120203","Eel",1044,1044
+"1045","1045","051202080203","DeWitt Creek-Guthrie Creek","0512020802","Guthrie Creek","05120208","Lower East Fork White",1045,1045
+"1046","1046","051201130701","Pond Flat Ditch","0512011307","Big Creek","05120113","Lower Wabash",1046,1046
+"1047","1047","051201130702","Neuman Lateral-Big Creek","0512011307","Big Creek","05120113","Lower Wabash",1047,1047
+"1048","1048","051202030301","Headwaters Deer Creek","0512020303","Deer Creek","05120203","Eel",1048,1048
+"1049","1049","051202030302","Owl Branch-Deer Creek","0512020303","Deer Creek","05120203","Eel",1049,1049
+"1050","1050","051202030303","Deweese Branch-Deer Creek","0512020303","Deer Creek","05120203","Eel",1050,1050
+"1051","1051","051202030401","Town of Banard-Big Walnut Creek","0512020304","Big Walnut Creek","05120203","Eel",1051,1051
+"1052","1052","051202030104","West Fork Big Walnut Creek","0512020301","East Fork Big Walnut Creek","05120203","Eel",1052,1052
+"1053","1053","051202030504","Mud Creek","0512020305","Mill Creek","05120203","Eel",1053,1053
+"1054","1054","051202030101","Eldin Ditch","0512020301","East Fork Big Walnut Creek","05120203","Eel",1054,1054
+"1055","1055","051202030102","Ross Ditch-East Fork Big Walnut Creek","0512020301","East Fork Big Walnut Creek","05120203","Eel",1055,1055
+"1056","1056","051202030103","Ramp Run-East Fork Big Walnut Creek","0512020301","East Fork Big Walnut Creek","05120203","Eel",1056,1056
+"1057","1057","051202030201","Owl Creek","0512020302","Little Walnut Creek","05120203","Eel",1057,1057
+"1058","1058","051202030202","Headwaters Little Walnut Creek","0512020302","Little Walnut Creek","05120203","Eel",1058,1058
+"1059","1059","051202030203","Leatherman Creek-Little Walnut Creek","0512020302","Little Walnut Creek","05120203","Eel",1059,1059
+"1060","1060","051201130706","Headwaters Little Creek","0512011307","Big Creek","05120113","Lower Wabash",1060,1060
+"1061","1061","051202080503","Gravel Creek-Middle Fork Salt Creek","0512020805","Middle Fork Salt Creek","05120208","Lower East Fork White",1061,1061
+"1062","1062","051202080602","East Fork Salt Creek-North Fork Salt Creek","0512020806","North Fork Salt Creek","05120208","Lower East Fork White",1062,1062
+"1063","1063","051202080603","Gnaw Bone Creek","0512020806","North Fork Salt Creek","05120208","Lower East Fork White",1063,1063
+"1064","1064","051202080604","Clay Lick Creek-North Fork Salt Creek","0512020806","North Fork Salt Creek","05120208","Lower East Fork White",1064,1064
+"1065","1065","051202080606","Stephens Creek-North Fork Salt Creek","0512020806","North Fork Salt Creek","05120208","Lower East Fork White",1065,1065
+"1066","1066","051202080701","Jacobs Creek-Monroe Lake","0512020807","Lake Monroe-Salt Creek","05120208","Lower East Fork White",1066,1066
+"1067","1067","051202080702","Moore Creek-Lake Monroe","0512020807","Lake Monroe-Salt Creek","05120208","Lower East Fork White",1067,1067
+"1068","1068","051202070904","Delaney Creek","0512020709","Muscatatuck River","05120207","Muscatatuck",1068,1068
+"1069","1069","051202070905","Mill Creek-Muscatatuck River","0512020709","Muscatatuck River","05120207","Muscatatuck",1069,1069
+"1070","1070","051202070902","Smart Ditch-Muscatatuck River","0512020709","Muscatatuck River","05120207","Muscatatuck",1070,1070
+"1071","1071","051202070903","Pond Creek","0512020709","Muscatatuck River","05120207","Muscatatuck",1071,1071
+"1072","1072","051201070406","Petes Run-Wildcat Creek","0512010704","Wildcat Creek","05120107","Wildcat",1072,1072
+"1073","1073","051201080401","Roudebush Ditch-Big Pine Creek","0512010804","Big Pine Creek","05120108","Middle Wabash-Little Vermilion",1073,1073
+"1074","1074","051201080402","Pine Creek Ditch-Big Pine Creek","0512010804","Big Pine Creek","05120108","Middle Wabash-Little Vermilion",1074,1074
+"1075","1075","051201070407","Hurricane Creek-Wildcat Creek","0512010704","Wildcat Creek","05120107","Wildcat",1075,1075
+"1076","1076","051202070705","Polly Branch-Vernon Fork Muscatatuck Rover","0512020707","Vernon Fork Muscatatuck River","05120207","Muscatatuck",1076,1076
+"1077","1077","051202070706","Grassy Creek-Vernon Fork Muscatatuck River","0512020707","Vernon Fork Muscatatuck River","05120207","Muscatatuck",1077,1077
+"1078","1078","051202070801","Big Ox Creek","0512020708","Cammie Thomas Ditch","05120207","Muscatatuck",1078,1078
+"1079","1079","051202070704","Mutton Creek","0512020707","Vernon Fork Muscatatuck River","05120207","Muscatatuck",1079,1079
+"1080","1080","051202070802","Elk Creek","0512020708","Cammie Thomas Ditch","05120207","Muscatatuck",1080,1080
+"1081","1081","051202070803","Henry Creek-Cammie Thomas Ditch","0512020708","Cammie Thomas Ditch","05120207","Muscatatuck",1081,1081
+"1082","1082","051202070901","Horse Lick-Grassy Fork","0512020709","Muscatatuck River","05120207","Muscatatuck",1082,1082
+"1083","1083","051202030402","Clear Creek","0512020304","Big Walnut Creek","05120203","Eel",1083,1083
+"1084","1084","051202030403","Bledsoe Branch-Big Walnut Creek","0512020304","Big Walnut Creek","05120203","Eel",1084,1084
+"1085","1085","051202070703","Storm Creek","0512020707","Vernon Fork Muscatatuck River","05120207","Muscatatuck",1085,1085
+"1086","1086","051201080303","Goose Creek-Mud Pine Creek","0512010803","Mud Pine Creek","05120108","Middle Wabash-Little Vermilion",1086,1086
+"1087","1087","051201080403","Little Pine Creek","0512010804","Big Pine Creek","05120108","Middle Wabash-Little Vermilion",1087,1087
+"1088","1088","051201080302","Seamons Ditch-Mud Pine Creek","0512010803","Mud Pine Creek","05120108","Middle Wabash-Little Vermilion",1088,1088
+"1089","1089","051201070408","Town of Owasco-Wildcat Creek","0512010704","Wildcat Creek","05120107","Wildcat",1089,1089
+"1090","1090","051201070409","Dry Run-Wildcat Creek","0512010704","Wildcat Creek","05120107","Wildcat",1090,1090
+"1091","1091","051201080304","Spring Branch-Mud Pine Creek","0512010803","Mud Pine Creek","05120108","Middle Wabash-Little Vermilion",1091,1091
+"1092","1092","051201080203","Cedar Hollow-Wabash River","0512010802","Burnett Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",1092,1092
+"1093","1093","051201080301","Headwaters Mud Pine Creek","0512010803","Mud Pine Creek","05120108","Middle Wabash-Little Vermilion",1093,1093
+"1094","1094","051202080703","Allens Creek-Lake Monroe","0512020807","Lake Monroe-Salt Creek","05120208","Lower East Fork White",1094,1094
+"1095","1095","051201080106","Kenny Ditch-Wea Creek","0512010801","Wea Creek","05120108","Middle Wabash-Little Vermilion",1095,1095
+"1096","1096","051201080201","North Fork Burnett Creek","0512010802","Burnett Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",1096,1096
+"1097","1097","051201080202","Headwaters Burnett Creek","0512010802","Burnett Creek-Wabash River","05120108","Middle Wabash-Little Vermilion",1097,1097
+"1098","1098","051202080802","May Creek-Clear Creek","0512020808","Salt Creek","05120208","Lower East Fork White",1098,1098
+"1099","1099","051202080803","Little Clear Creek-Clear Creek","0512020808","Salt Creek","05120208","Lower East Fork White",1099,1099
+"1100","1100","051202080804","Hunter Creek-Little Salt Creek","0512020808","Salt Creek","05120208","Lower East Fork White",1100,1100
+"1101","1101","051202080805","Knob Creek-Little Salt Creek","0512020808","Salt Creek","05120208","Lower East Fork White",1101,1101
+"1102","1102","051202080806","Wolf Creek-Salt Creek","0512020808","Salt Creek","05120208","Lower East Fork White",1102,1102
+"1103","1103","051202080807","Goose Creek-Salt Creek","0512020808","Salt Creek","05120208","Lower East Fork White",1103,1103
+"1104","1104","051202080901","Headwaters Indian Creek","0512020809","Indian Creek","05120208","Lower East Fork White",1104,1104
+"1105","1105","051202080902","Little Indian Creek-Indian Creek","0512020809","Indian Creek","05120208","Lower East Fork White",1105,1105
+"1106","1106","051202080801","Jackson Creek-Clear Creek","0512020808","Salt Creek","05120208","Lower East Fork White",1106,1106
+"1107","1107","051202070201","Headwater Graham Creek","0512020702","Graham Creek","05120207","Muscatatuck",1107,1107
+"1108","1108","051201010502","Brewster Ditch-Wabash River","0512010105","Brewster Ditch-Wabash River","05120101","Upper Wabash",1108,1108
+"1109","1109","051201090703","Middle Branch North Fork Vermilion River","0512010907","Jordan Creek-Middle Branch","05120109","Vermilion",1109,1109
+"1110","1110","051201090901","Butler Branch-Vermilion River","0512010909","Vermilion River","05120109","Vermilion",1110,1110
+"1111","1111","051201100104","Ross Ditch-Browns Wonder Creek","0512011001","Browns Wonder Creek-Sugar Creek","05120110","Sugar",1111,1111
+"1112","1112","051202030804","Conneley Ditch-Eel River","0512020308","Eel River","05120203","Eel",1112,1112
+"1113","1113","051201080903","Coffing Brothers Lake-Coal Creek","0512010809","Coal Creek","05120108","Middle Wabash-Little Vermilion",1113,1113
+"1114","1114","051202020701","Flat Creek-South Fork Prairie Creek","0512020207","Prairie Creek","05120202","Lower White",1114,1114
+"1115","1115","051202020702","Headwaters North Fork Prairie Creek","0512020207","Prairie Creek","05120202","Lower White",1115,1115
+"1116","1116","051202070105","Harberts Creek-Big Creek","0512020701","Big Creek","05120207","Muscatatuck",1116,1116
+"1117","1117","051202070302","Falling Timbers Branch-Otter Creek","0512020703","Otter Creek","05120207","Muscatatuck",1117,1117
+"1118","1118","051202070303","Huckleberry Branch-Otter Creek","0512020703","Otter Creek","05120207","Muscatatuck",1118,1118
+"1119","1119","051201070106","Irwin Creek-Mud Creek","0512010701","Kokomo Creek-Wildcat Creek","05120107","Wildcat",1119,1119
+"1120","1120","051201070107","Kokomo Waterworks Reservoir Number Two-Wildcat Creek","0512010701","Kokomo Creek-Wildcat Creek","05120107","Wildcat",1120,1120
+"1121","1121","051201070108","Taylor Run-Kokomo Creek","0512010701","Kokomo Creek-Wildcat Creek","05120107","Wildcat",1121,1121
+"1122","1122","051201070109","Cannon-Goyer Ditch-Wildcat Creek","0512010701","Kokomo Creek-Wildcat Creek","05120107","Wildcat",1122,1122
+"1123","1123","051201070201","Harness Ditch-Middle Fork Wildcat Creek","0512010702","Middle Fork Wildcat Creek","05120107","Wildcat",1123,1123
+"1124","1124","051201070104","Middle Fork Ditch","0512010701","Kokomo Creek-Wildcat Creek","05120107","Wildcat",1124,1124
+"1125","1125","051201070105","Grassy Fork","0512010701","Kokomo Creek-Wildcat Creek","05120107","Wildcat",1125,1125
+"1126","1126","051202070204","Turkey Run-Graham Creek","0512020702","Graham Creek","05120207","Muscatatuck",1126,1126
+"1127","1127","051202070202","Little Graham Creek","0512020702","Graham Creek","05120207","Muscatatuck",1127,1127
+"1128","1128","051202070203","Campfire Creek-Graham Creek","0512020702","Graham Creek","05120207","Muscatatuck",1128,1128
+"1129","1129","051201070202","Robertson Branch-Middle Fork Wildcat Creek","0512010702","Middle Fork Wildcat Creek","05120107","Wildcat",1129,1129
+"1130","1130","051202020705","Eagan Ditch-South Fork Prairie Creek","0512020207","Prairie Creek","05120202","Lower White",1130,1130
+"1131","1131","051202020703","Dinken Creek-South Fork Prairie Creek","0512020207","Prairie Creek","05120202","Lower White",1131,1131
+"1132","1132","051202020706","Bethel Ditch-North Fork Prairie Creek","0512020207","Prairie Creek","05120202","Lower White",1132,1132
+"1133","1133","051202020707","Killion Canal-Prairie Creek","0512020207","Prairie Creek","05120202","Lower White",1133,1133
+"1134","1134","051202020801","Pollard Ditch","0512020208","Indian Creek-White River","05120202","Lower White",1134,1134
+"1135","1135","051202070301","Long Branch-Otter Creek","0512020703","Otter Creek","05120207","Muscatatuck",1135,1135
+"1136","1136","051202020704","Barnes Branch-North Fork Prairie Creek","0512020207","Prairie Creek","05120202","Lower White",1136,1136
+"1137","1137","051201130302","McCarty Ditch-Coffee Bayou","0512011303","Coffee Bayou-Wabash River","05120113","Lower Wabash",1137,1137
+"1138","1138","051201111902","Snapp Creek-Kelso Creek","0512011119","Kelso Creek-Wabash River","05120111","Middle Wabash-Busseron",1138,1138
+"1139","1139","051201130202","Swan Pond Ditch","0512011302","River Deshee-Wabash River","05120113","Lower Wabash",1139,1139
+"1140","1140","051201130203","Vieke Drainage System Ditch-River Deshee","0512011302","River Deshee-Wabash River","05120113","Lower Wabash",1140,1140
+"1141","1141","051202020802","Pickel Ditch-Indian Creek","0512020208","Indian Creek-White River","05120202","Lower White",1141,1141
+"1142","1142","051201111801","Headwaters Maria Creek","0512011118","Maria Creek","05120111","Middle Wabash-Busseron",1142,1142
+"1143","1143","051201111802","Tilley Ditch-Maria Creek","0512011118","Maria Creek","05120111","Middle Wabash-Busseron",1143,1143
+"1144","1144","051201111803","Marsh Creek","0512011118","Maria Creek","05120111","Middle Wabash-Busseron",1144,1144
+"1145","1145","051201111804","Cotton Branch-Maria Creek","0512011118","Maria Creek","05120111","Middle Wabash-Busseron",1145,1145
+"1146","1146","051201111901","Smalls Creek-Wabash River","0512011119","Kelso Creek-Wabash River","05120111","Middle Wabash-Busseron",1146,1146
+"1147","1147","051201110703","Paint Mill Lake","0512011107","Honey Creek","05120111","Middle Wabash-Busseron",1147,1147
+"1148","1148","051201110704","Thompson Ditch-Honey Creek","0512011107","Honey Creek","05120111","Middle Wabash-Busseron",1148,1148
+"1149","1149","051201111105","Negro Ditch-Prairie Creek","0512011111","Prairie Creek-Wabash River","05120111","Middle Wabash-Busseron",1149,1149
+"1150","1150","051201111201","Thunderbird Pond-Turman Creek","0512011112","Turman Creek","05120111","Middle Wabash-Busseron",1150,1150
+"1151","1151","051201111202","West Fork Turman Creek-Turman Creek","0512011112","Turman Creek","05120111","Middle Wabash-Busseron",1151,1151
+"1152","1152","051201111203","Town of Dodds Bridge-Turman Creek","0512011112","Turman Creek","05120111","Middle Wabash-Busseron",1152,1152
+"1153","1153","051201111104","Headwaters Prairie Creek","0512011111","Prairie Creek-Wabash River","05120111","Middle Wabash-Busseron",1153,1153
+"1154","1154","051201070302","Shanty Creek-Kilmore Creek","0512010703","South Fork Wildcat Creek","05120107","Wildcat",1154,1154
+"1155","1155","051201070303","Stump Ditch-Kilmore Creek","0512010703","South Fork Wildcat Creek","05120107","Wildcat",1155,1155
+"1156","1156","051201070203","Campbells Run","0512010702","Middle Fork Wildcat Creek","05120107","Wildcat",1156,1156
+"1157","1157","051201110702","Stone Quarry Branch-Honey Creek","0512011107","Honey Creek","05120111","Middle Wabash-Busseron",1157,1157
+"1158","1158","051202070503","Kimberlin Creek","0512020705","Stucker Ditch","05120207","Muscatatuck",1158,1158
+"1159","1159","051202070505","Hutto Creek-Stucker Ditch","0512020705","Stucker Ditch","05120207","Muscatatuck",1159,1159
+"1160","1160","051201070205","Hog Run-Middle Fork Wildcat Creek","0512010702","Middle Fork Wildcat Creek","05120107","Wildcat",1160,1160
+"1161","1161","051201070301","Swamp Creek","0512010703","South Fork Wildcat Creek","05120107","Wildcat",1161,1161
+"1162","1162","051202070501","Hog Creek","0512020705","Stucker Ditch","05120207","Muscatatuck",1162,1162
+"1163","1163","051201070204","Town of Rossville-Middle Fork Wildcat Creek","0512010702","Middle Fork Wildcat Creek","05120107","Wildcat",1163,1163
+"1164","1164","051202070403","Brush Creek Reservoir-Brush Creek","0512020704","Brush Creek-Vernon Fork Muscatatuck River","05120207","Muscatatuck",1164,1164
+"1165","1165","051202070502","Woods Fork-Stucker Ditch","0512020705","Stucker Ditch","05120207","Muscatatuck",1165,1165
+"1166","1166","051202070404","Long Branch-Vernon Fork Muscatatuck River","0512020704","Brush Creek-Vernon Fork Muscatatuck River","05120207","Muscatatuck",1166,1166
+"1167","1167","051202070402","Flatrock Creek-Vernon Fork Muscatatuck River","0512020704","Brush Creek-Vernon Fork Muscatatuck River","05120207","Muscatatuck",1167,1167
+"1168","1168","051202070504","Pigeon Roost Creek","0512020705","Stucker Ditch","05120207","Muscatatuck",1168,1168
+"1169","1169","051202020906","Opossum Branch-Kessinger Ditch","0512020209","Kessinger Ditch-White River","05120202","Lower White",1169,1169
+"1170","1170","051202020907","Jackson Pond-White River","0512020209","Kessinger Ditch-White River","05120202","Lower White",1170,1170
+"1171","1171","051202021001","Lick Creek-White River","0512020210","White River","05120202","Lower White",1171,1171
+"1172","1172","051202020904","Roberson Ditch","0512020209","Kessinger Ditch-White River","05120202","Lower White",1172,1172
+"1173","1173","051202020905","Headwaters Kessinger Ditch","0512020209","Kessinger Ditch-White River","05120202","Lower White",1173,1173
+"1174","1174","051202021002","McCoy Creek-Wilson Creek","0512020210","White River","05120202","Lower White",1174,1174
+"1175","1175","051202021003","Buckhorn Creek-White River","0512020210","White River","05120202","Lower White",1175,1175
+"1176","1176","051202021004","Little Conger Creek-Conger Creek","0512020210","White River","05120202","Lower White",1176,1176
+"1177","1177","051202021005","Upper River Deshee","0512020210","White River","05120202","Lower White",1177,1177
+"1178","1178","051202020901","Hurricane Branch-Veale Creek","0512020209","Kessinger Ditch-White River","05120202","Lower White",1178,1178
+"1179","1179","051202020902","Veale Creek","0512020209","Kessinger Ditch-White River","05120202","Lower White",1179,1179
+"1180","1180","051202020903","Hawkins Creek-White River","0512020209","Kessinger Ditch-White River","05120202","Lower White",1180,1180
+"1181","1181","051202020803","Smothers Creek-White River","0512020208","Indian Creek-White River","05120202","Lower White",1181,1181
+"1182","1182","051202020804","Bens Creek-White River","0512020208","Indian Creek-White River","05120202","Lower White",1182,1182
+"1183","1183","051202020307","Black Ankle Creek-Plummer Creek","0512020203","Plummer Creek","05120202","Lower White",1183,1183
+"1184","1184","051202020308","Ore Branch-Richland Creek","0512020203","Plummer Creek","05120202","Lower White",1184,1184
+"1185","1185","051202020309","Burcham Branch-Plummer Creek","0512020203","Plummer Creek","05120202","Lower White",1185,1185
+"1186","1186","051202020401","Headwaters Lattas Creek","0512020204","Lattas Creek-White River","05120202","Lower White",1186,1186
+"1187","1187","051202020507","Kane Ditch-Smothers Creek","0512020205","First Creek-White River","05120202","Lower White",1187,1187
+"1188","1188","051202020502","Bogard Creek-Doans Creek","0512020205","First Creek-White River","05120202","Lower White",1188,1188
+"1189","1189","051202020503","Rocky Branch-First Creek","0512020205","First Creek-White River","05120202","Lower White",1189,1189
+"1190","1190","051202020504","Gilbert Creek-White River","0512020205","First Creek-White River","05120202","Lower White",1190,1190
+"1191","1191","051202020505","Fourmile Creek","0512020205","First Creek-White River","05120202","Lower White",1191,1191
+"1192","1192","051202020506","Vertrees Ditch-White River","0512020205","First Creek-White River","05120202","Lower White",1192,1192
+"1193","1193","051202020508","McGinnis Levee-White River","0512020205","First Creek-White River","05120202","Lower White",1193,1193
+"1194","1194","051202020601","Headwaters Black Creek","0512020206","Black Creek","05120202","Lower White",1194,1194
+"1195","1195","051201111501","Chowning Creek-Busseron Creek","0512011115","Busseron Creek","05120111","Middle Wabash-Busseron",1195,1195
+"1196","1196","051201111502","West Fork Busseron Creek","0512011115","Busseron Creek","05120111","Middle Wabash-Busseron",1196,1196
+"1197","1197","051201111503","Headwaters Big Branch","0512011115","Busseron Creek","05120111","Middle Wabash-Busseron",1197,1197
+"1198","1198","051201070306","Kilmore Creek","0512010703","South Fork Wildcat Creek","05120107","Wildcat",1198,1198
+"1199","1199","051201070307","Spring Creek","0512010703","South Fork Wildcat Creek","05120107","Wildcat",1199,1199
+"1200","1200","051201070308","Jenkins Ditch-South Fork Wildcat Creek","0512010703","South Fork Wildcat Creek","05120107","Wildcat",1200,1200
+"1201","1201","051201111504","Mud Creek-Big Branch","0512011115","Busseron Creek","05120111","Middle Wabash-Busseron",1201,1201
+"1202","1202","051201111505","Sulphur Creek-Busseron Creek","0512011115","Busseron Creek","05120111","Middle Wabash-Busseron",1202,1202
+"1203","1203","051201111506","Kettle Creek-Busseron Creek","0512011115","Busseron Creek","05120111","Middle Wabash-Busseron",1203,1203
+"1204","1204","051201111507","Buttermilk Creek","0512011115","Busseron Creek","05120111","Middle Wabash-Busseron",1204,1204
+"1205","1205","051201111508","Morrison Creek-Busseron Creek","0512011115","Busseron Creek","05120111","Middle Wabash-Busseron",1205,1205
+"1206","1206","051201070304","Talbert Ditch-South Fork Wildcat Creek","0512010703","South Fork Wildcat Creek","05120107","Wildcat",1206,1206
+"1207","1207","051201070305","Prairie Creek","0512010703","South Fork Wildcat Creek","05120107","Wildcat",1207,1207
+"1208","1208","051201070309","Lauramie Creek","0512010703","South Fork Wildcat Creek","05120107","Wildcat",1208,1208
+"1209","1209","051201070310","Town of Mulberry-South Fork Wildcat Creek","0512010703","South Fork Wildcat Creek","05120107","Wildcat",1209,1209
+"1210","1210","051201070311","Town of Dayton-South Fork Wildcat Creek","0512010703","South Fork Wildcat Creek","05120107","Wildcat",1210,1210
+"1211","1211","051202070603","Neils Creek-Big Creek","0512020706","White Oak Branch-Muscatatuck River","05120207","Muscatatuck",1211,1211
+"1212","1212","051202070604","Quick Creek-White Oak Branch","0512020706","White Oak Branch-Muscatatuck River","05120207","Muscatatuck",1212,1212
+"1213","1213","051202070605","Coffee Creek-Muscatatuck River","0512020706","White Oak Branch-Muscatatuck River","05120207","Muscatatuck",1213,1213
+"1214","1214","051202070606","Dens Ford Ditch-Muscatatuck River","0512020706","White Oak Branch-Muscatatuck River","05120207","Muscatatuck",1214,1214
+"1215","1215","051202070701","Indian Creek-Vernon Fork Muscatatuck River","0512020707","Vernon Fork Muscatatuck River","05120207","Muscatatuck",1215,1215
+"1216","1216","051202070702","Sixmile Creek","0512020707","Vernon Fork Muscatatuck River","05120207","Muscatatuck",1216,1216
+"1217","1217","051202070601","Little Creek","0512020706","White Oak Branch-Muscatatuck River","05120207","Muscatatuck",1217,1217
+"1218","1218","051202070602","Lewis Creek","0512020706","White Oak Branch-Muscatatuck River","05120207","Muscatatuck",1218,1218
+"1219","1219","051202060402","South Fork White Creek","0512020604","White Creek","05120206","Upper East Fork White",1219,1219
+"1220","1220","051202060403","East Fork White Creek","0512020604","White Creek","05120206","Upper East Fork White",1220,1220
+"1221","1221","051202060404","Headwaters White Creek","0512020604","White Creek","05120206","Upper East Fork White",1221,1221
+"1222","1222","051202060405","Cooley Creek-White Creek","0512020604","White Creek","05120206","Upper East Fork White",1222,1222
+"1223","1223","051202060501","Peters Lake-Thompson Slough","0512020605","Thompson Slough-East Fork White River","05120206","Upper East Fork White",1223,1223
+"1224","1224","051202060502","Heddy Run-East Fork White River","0512020605","Thompson Slough-East Fork White River","05120206","Upper East Fork White",1224,1224
+"1225","1225","051202060310","Rock Creek-Sand Creek","0512020603","Sand Creek","05120206","Upper East Fork White",1225,1225
+"1226","1226","051202060401","Grandview Lake-East Fork White Creek","0512020604","White Creek","05120206","Upper East Fork White",1226,1226
+"1227","1227","051202020402","Miller Creek-Lattas Creek","0512020204","Lattas Creek-White River","05120202","Lower White",1227,1227
+"1228","1228","051202020403","Sloan Ditch-Lattas Creek","0512020204","Lattas Creek-White River","05120202","Lower White",1228,1228
+"1229","1229","051202020404","Kelly Branch-White River","0512020204","Lattas Creek-White River","05120202","Lower White",1229,1229
+"1230","1230","051202020501","Lake Greenwood-First Creek","0512020205","First Creek-White River","05120202","Lower White",1230,1230
+"1231","1231","051201111510","Middle Fork Creek","0512011115","Busseron Creek","05120111","Middle Wabash-Busseron",1231,1231
+"1232","1232","051201070401","West Fork Little Wildcat Creek","0512010704","Wildcat Creek","05120107","Wildcat",1232,1232
+"1233","1233","051201070402","Little Wildcat Creek","0512010704","Wildcat Creek","05120107","Wildcat",1233,1233
+"1234","1234","051202020604","Calico Slash Ditch-Black Creek","0512020206","Black Creek","05120202","Lower White",1234,1234
+"1235","1235","051202020605","Singer Ditch-Black Creek","0512020206","Black Creek","05120202","Lower White",1235,1235
+"1236","1236","051201070405","Dearinger Ditch-Wildcat Creek","0512010704","Wildcat Creek","05120107","Wildcat",1236,1236
+"1237","1237","051201111702","Shaker Prairie Ditch","0512011117","No Business Creek-Wabash River","05120111","Middle Wabash-Busseron",1237,1237
+"1238","1238","051202060601","Ball Richard Ditch-East Fork White River","0512020606","Hough Creek-East Fork White River","05120206","Upper East Fork White",1238,1238
+"1239","1239","051201111511","Rogers Ditch","0512011115","Busseron Creek","05120111","Middle Wabash-Busseron",1239,1239
+"1240","1240","051201111601","Turtle Creek Lake-Turtle Creek","0512011116","Turtle Creek-Wabash River","05120111","Middle Wabash-Busseron",1240,1240
+"1241","1241","051202020602","Buck Creek","0512020206","Black Creek","05120202","Lower White",1241,1241
+"1242","1242","051202020603","Brewer Ditch-Black Creek","0512020206","Black Creek","05120202","Lower White",1242,1242
+"1243","1243","051201070403","Kitty Run-Wildcat Creek","0512010704","Wildcat Creek","05120107","Wildcat",1243,1243
+"1244","1244","051201070404","Honey Creek","0512010704","Wildcat Creek","05120107","Wildcat",1244,1244
+"1245","1245","051201111509","Buck Creek-Busseron Creek","0512011115","Busseron Creek","05120111","Middle Wabash-Busseron",1245,1245
+"1246","1246","051202060602","Wayman Ditch-East Fork White River","0512020606","Hough Creek-East Fork White River","05120206","Upper East Fork White",1246,1246
+"1247","1247","051202060603","Stuckwish Ditch-East Fork White River","0512020606","Hough Creek-East Fork White River","05120206","Upper East Fork White",1247,1247
+"1248","1248","051202070101","Headwaters Big Creek","0512020701","Big Creek","05120207","Muscatatuck",1248,1248
+"1249","1249","051201111512","Tanyard Branch-Busseron Creek","0512011115","Busseron Creek","05120111","Middle Wabash-Busseron",1249,1249
+"1250","1250","051202070102","Marble Creek-Big Creek","0512020701","Big Creek","05120207","Muscatatuck",1250,1250
+"1251","1251","051202070103","Middle Fork Creek","0512020701","Big Creek","05120207","Muscatatuck",1251,1251
+"1252","1252","051202070104","Camp Creek-Big Creek","0512020701","Big Creek","05120207","Muscatatuck",1252,1252
+"1253","1253","051202060503","Beatty Walker Ditch-East Fork White River","0512020605","Thompson Slough-East Fork White River","05120206","Upper East Fork White",1253,1253
+"1254","1254","051201111602","Turtle Creek-Wabash River","0512011116","Turtle Creek-Wabash River","05120111","Middle Wabash-Busseron",1254,1254
+"1255","1255","051201141004","Town of Emma-Little Wabash River","0512011410","Lick Creek-Little Wabash River","05120114","Little Wabash",1255,1255
+"1256","1256","051201040101","Headwaters Blue River","0512010401","Blue River","05120104","Eel",1256,1256
+"1257","1257","051201010101","Headwaters Wabash River","0512010101","Headwaters Wabash River","05120101","Upper Wabash",1257,1257
+"1258","1258","051201010201","Chickasaw Creek","0512010102","Grand Lake-St Marys","05120101","Upper Wabash",1258,1258
+"1259","1259","051201010202","Headwaters Beaver Creek","0512010102","Grand Lake-St Marys","05120101","Upper Wabash",1259,1259
+"1260","1260","051201010203","Coldwater Creek","0512010102","Grand Lake-St Marys","05120101","Upper Wabash",1260,1260
+"1261","1261","051201010204","Grand Lake-St Marys","0512010102","Grand Lake-St Marys","05120101","Upper Wabash",1261,1261
+"1262","1262","051201010301","Little Beaver Creek","0512010103","Beaver Creek","05120101","Upper Wabash",1262,1262
+"1263","1263","051201010302","Hardin Creek-Beaver Creek","0512010103","Beaver Creek","05120101","Upper Wabash",1263,1263
+"1264","1264","051201010303","Prairie Creek-Beaver Creek","0512010103","Beaver Creek","05120101","Upper Wabash",1264,1264
+"1265","1265","051201100102","Scott Wincoop Ditch-Sugar Creek","0512011001","Browns Wonder Creek-Sugar Creek","05120110","Sugar",1265,1265
+"1266","1266","051201121001","McNary Branch-North Fork Embarras River","0512011210","North Fork Embarras River","05120112","Embarras",1266,1266
+"1267","1267","051201100201","Headwaters Little Potato Creek","0512011002","Lye Creek","05120110","Sugar",1267,1267
+"1268","1268","051201090304","Upper Salt Fork Drainage Ditch-Salt Fork","0512010903","Upper Salt Fork Drainage Ditch-Salt Fork","05120109","Vermilion",1268,1268
+"1269","1269","051201040702","West Branch Twelve Mile Creek","0512010407","Eel River","05120104","Eel",1269,1269
+"1270","1270","051202040806","De Prez Ditch-Big Blue River","0512020408","Big Blue River","05120204","Driftwood",1270,1270
+"1271","1271","051201050302","Outlet Rattlesnake Creek","0512010503","Rattlesnake Creek-Wabash River","05120105","Middle Wabash-Deer",1271,1271
+"1272","1272","051201130708","McAdoo Creek","0512011307","Big Creek","05120113","Lower Wabash",1272,1272
+"1273","1273","051201130301","Skelton Creek-Brown Ditch","0512011303","Coffee Bayou-Wabash River","05120113","Lower Wabash",1273,1273
+"1274","1274","051202050401","Ben Davis Creek","0512020504","Mill Creek-Flatrock River","05120205","Flatrock-Haw",1274,1274
+"1275","1275","051201060304","Ridenour Ditch-Danner Ditch","0512010603","Trimble Creek-Tippecanoe River","05120106","Tippecanoe",1275,1275
+"1276","1276","051201061204","Winters Ditch-Hoagland Ditch","0512010612","Honey Creek-Tippecanoe River","05120106","Tippecanoe",1276,1276
