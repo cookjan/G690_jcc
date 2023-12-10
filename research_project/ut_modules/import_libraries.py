@@ -1,4 +1,4 @@
-#import libraries
+# import libraries: a list of all importable libraries with some notes on their use
 
 #analytical 
 import numpy as np
@@ -22,16 +22,17 @@ from IPython.display import Image, display
 #for better colormaps
 import cmocean #see 06_workalong01
 
-#??
-import numpy.fft as fft #see 11_workalong_01
-import os #keep from redownloading a file. see 05_multid
-
 #machine learning
 import torch
 import torch.nn as nn
 
 #parallel code
 from mpi4py import MPI # see 09_workalong_01
+
+
+#??
+import numpy.fft as fft #see 11_workalong_01
+import os #keep from redownloading a file. see 05_multid
 
 import sklearn #scikit-learn
 from sklearn import preprocessing as pr
