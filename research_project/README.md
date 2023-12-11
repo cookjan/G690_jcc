@@ -1,7 +1,7 @@
 
 # Final Project: 
 
-## Groundwater Geochemistry in a Subset of Indiana under Climate Emissions Scenarios
+## Groundwater Geochemistry in a Subset of Indiana
 
 This project consists of a number of analyses contained in the Jupyter notebooks below:
 1. IDNR_GW
@@ -22,7 +22,7 @@ Besides these, there is one markdown file containing the project proposal (```pr
 
 #### 1. IDNR_GW
 
-This notebook looks at a historical groundwater chemistry dataset of six groundwater basins in Indiana, published by the Indiana DNR. This was the most successful analysis of the project.
+This notebook looks at a historical groundwater chemistry dataset of six groundwater basins in Indiana, published by the Indiana DNR, and completes an interpolation analysis of groundwater hardness in the dataset. This was the most successful analysis of the project.
 
 #### 2. HFK-database
 
