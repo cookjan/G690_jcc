@@ -18,6 +18,9 @@ The folder also contains several subfolders:
 
 Besides these, there is one markdown file containing the project proposal (```project_proposal.md```). These files/folders and their contents are explained below.
 
+**Figure:** A copy of the final figure can be found here: ```research_project\images\fig_NNinterpolationGWhardness.png```. The caption and analysis is found in the primary notebook: ```research_project\IDNR_GW.ipynb```.
+
+
 ## Notebooks
 
 #### 1. IDNR_GW
